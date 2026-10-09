@@ -1,0 +1,1319 @@
+{
+  "name": "pysam",
+  "version": "0.24.1",
+  "build": "py314ha0fe93d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/linux-64",
+  "subdir": "linux-64",
+  "fn": "pysam-0.24.1-py314ha0fe93d_0.conda",
+  "md5": "22db94839eed2ec1ec8f57edfd416c3c",
+  "url": "https://conda.anaconda.org/bioconda/linux-64/pysam-0.24.1-py314ha0fe93d_0.conda",
+  "sha256": "795ea6e1d49769644f890c005b26f0fc29404a019f325287a82f9f47ea862ad5",
+  "depends": [
+    "__glibc >=2.17,<3.0.a0",
+    "bzip2 >=1.0.8,<2.0a0",
+    "libcurl >=8.22.0,<9.0a0",
+    "libdeflate >=1.25,<1.26.0a0",
+    "libgcc >=14",
+    "liblzma >=5.8.3,<6.0a0",
+    "libzlib >=1.3.2,<2.0a0",
+    "openssl >=3.5.8,<4.0a0",
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1788774128744,
+  "size": 2406815,
+  "requested_spec": "pysam[version='>=0.19']",
+  "package_tarball_full_path": "/opt/conda/pkgs/pysam-0.24.1-py314ha0fe93d_0.conda",
+  "extracted_package_dir": "/opt/conda/pkgs/pysam-0.24.1-py314ha0fe93d_0",
+  "files": [
+    "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/PKG-INFO",
+    "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/SOURCES.txt",
+    "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/dependency_links.txt",
+    "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/not-zip-safe",
+    "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/top_level.txt",
+    "lib/python3.14/site-packages/pysam/Pileup.py",
+    "lib/python3.14/site-packages/pysam/__init__.py",
+    "lib/python3.14/site-packages/pysam/__pycache__/Pileup.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/__pycache__/bcftools.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/__pycache__/config.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/__pycache__/samtools.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/__pycache__/utils.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/__pycache__/version.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/bcftools.py",
+    "lib/python3.14/site-packages/pysam/config.py",
+    "lib/python3.14/site-packages/pysam/htslib_util.h",
+    "lib/python3.14/site-packages/pysam/include/__init__.py",
+    "lib/python3.14/site-packages/pysam/include/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/pysam/include/bcftools/HMM.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/abuf.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/bam2bcf.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/bam_sample.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/bcftools.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/bcftools.pysam.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/bin.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/call.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/cigar_state.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/cols.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/config.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/convert.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/dbuf.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/dist.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/edlib.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/extsort.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/filter.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/gff.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/gvcf.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/hclust.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/hex.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/khash_str2str.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/kheap.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/kmin.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/mw.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/ploidy.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/prob1.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/rbuf.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/read_consensus.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/regidx.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/smpl_ilist.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/str_finder.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/tsv2vcf.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/utlist.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/variantkey.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/vcfbuf.h",
+    "lib/python3.14/site-packages/pysam/include/bcftools/vcmp.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/bcf_sr_sort.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/bgzf_internal.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/config.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/fuzz_settings.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/header.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/hfile_internal.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/hts_internal.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/hts_time_funcs.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/bgzf.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/cram.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/faidx.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hfile.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_alloc.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_defs.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_endian.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_expr.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_log.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_os.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/kbitset.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/kfunc.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/khash.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/khash_str2int.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/klist.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/knetfile.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/kroundup.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/kseq.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/ksort.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/kstring.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/regidx.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/sam.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/synced_bcf_reader.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/tbx.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/thread_pool.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/vcf.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/vcf_sweep.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/htslib/vcfutils.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/sam_internal.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/textutils_internal.h",
+    "lib/python3.14/site-packages/pysam/include/htslib/thread_pool_internal.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/bam.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/bam_ampliconclip.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/bam_consensus_tab.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/bam_lpileup.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/bam_plbuf.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/bedidx.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/config.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/consensus_pileup.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/sam_opts.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/sam_utils.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/sample.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/samtools.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/samtools.pysam.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/splaysort.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/stats_isize.h",
+    "lib/python3.14/site-packages/pysam/include/samtools/tmp_file.h",
+    "lib/python3.14/site-packages/pysam/libcalignedsegment.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcalignedsegment.pxd",
+    "lib/python3.14/site-packages/pysam/libcalignedsegment.pyi",
+    "lib/python3.14/site-packages/pysam/libcalignmentfile.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcalignmentfile.pxd",
+    "lib/python3.14/site-packages/pysam/libcalignmentfile.pyi",
+    "lib/python3.14/site-packages/pysam/libcbcf.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcbcf.pxd",
+    "lib/python3.14/site-packages/pysam/libcbcf.pyi",
+    "lib/python3.14/site-packages/pysam/libcbcftools.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcbcftools.pxd",
+    "lib/python3.14/site-packages/pysam/libcbcftools.pyi",
+    "lib/python3.14/site-packages/pysam/libcbgzf.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcbgzf.pxd",
+    "lib/python3.14/site-packages/pysam/libcbgzf.pyi",
+    "lib/python3.14/site-packages/pysam/libcfaidx.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcfaidx.pxd",
+    "lib/python3.14/site-packages/pysam/libcfaidx.pyi",
+    "lib/python3.14/site-packages/pysam/libchtslib.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libchtslib.pxd",
+    "lib/python3.14/site-packages/pysam/libchtslib.pyi",
+    "lib/python3.14/site-packages/pysam/libcsamfile.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcsamfile.pxd",
+    "lib/python3.14/site-packages/pysam/libcsamfile.pyi",
+    "lib/python3.14/site-packages/pysam/libcsamtools.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcsamtools.pxd",
+    "lib/python3.14/site-packages/pysam/libcsamtools.pyi",
+    "lib/python3.14/site-packages/pysam/libctabix.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libctabix.pxd",
+    "lib/python3.14/site-packages/pysam/libctabix.pyi",
+    "lib/python3.14/site-packages/pysam/libctabixproxies.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libctabixproxies.pxd",
+    "lib/python3.14/site-packages/pysam/libctabixproxies.pyi",
+    "lib/python3.14/site-packages/pysam/libcutils.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcutils.pxd",
+    "lib/python3.14/site-packages/pysam/libcutils.pyi",
+    "lib/python3.14/site-packages/pysam/libcvcf.cpython-314-x86_64-linux-gnu.so",
+    "lib/python3.14/site-packages/pysam/libcvcf.pxd",
+    "lib/python3.14/site-packages/pysam/libcvcf.pyi",
+    "lib/python3.14/site-packages/pysam/py.typed",
+    "lib/python3.14/site-packages/pysam/samtools.py",
+    "lib/python3.14/site-packages/pysam/utils.py",
+    "lib/python3.14/site-packages/pysam/version.py",
+    "lib/python3.14/site-packages/pysam/version.pyi"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "bf42ccf30eb92488f131ef0c524590897d03905c52ceebf7c2318de44c17d199",
+        "size_in_bytes": 1632,
+        "sha256_in_prefix": "bf42ccf30eb92488f131ef0c524590897d03905c52ceebf7c2318de44c17d199"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "025fb47f4f7ea4e3e988e9c2a33620a9019ed8385cb63bfd62a24403438b27f0",
+        "size_in_bytes": 12251,
+        "sha256_in_prefix": "025fb47f4f7ea4e3e988e9c2a33620a9019ed8385cb63bfd62a24403438b27f0"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1,
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1,
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam-0.24.1-py3.14.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "efcc8705f87ce8767d91850160ce2b8a1e8d00442e61f2331c0851be66ba357d",
+        "size_in_bytes": 6,
+        "sha256_in_prefix": "efcc8705f87ce8767d91850160ce2b8a1e8d00442e61f2331c0851be66ba357d"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/Pileup.py",
+        "path_type": "hardlink",
+        "sha256": "dada6b6d9ebcb78c103a5b5bb75a2d141190bb053d43f9b08fe2211e7a68cd3f",
+        "size_in_bytes": 8956,
+        "sha256_in_prefix": "dada6b6d9ebcb78c103a5b5bb75a2d141190bb053d43f9b08fe2211e7a68cd3f"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "47c1a657938298a9fcffbf01c41081d2a4eb91a9d3f48ea2e7573927c5870543",
+        "size_in_bytes": 3431,
+        "sha256_in_prefix": "47c1a657938298a9fcffbf01c41081d2a4eb91a9d3f48ea2e7573927c5870543"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__pycache__/Pileup.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "4c16d08fc7aa5e3f39827df6ffddfe48c37fa97c31008965a3618809214846f5",
+        "size_in_bytes": 10299,
+        "sha256_in_prefix": "4c16d08fc7aa5e3f39827df6ffddfe48c37fa97c31008965a3618809214846f5"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "60c1bd29f6e2064fefb7c3ef4e4cd478aa1f9c0a3c37cd13c8d367b4ee04483c",
+        "size_in_bytes": 4049,
+        "sha256_in_prefix": "60c1bd29f6e2064fefb7c3ef4e4cd478aa1f9c0a3c37cd13c8d367b4ee04483c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__pycache__/bcftools.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "a59a502646dae9d18422e81840d4d71c72daa612fa306322d7404771fb2ad4ca",
+        "size_in_bytes": 2335,
+        "sha256_in_prefix": "a59a502646dae9d18422e81840d4d71c72daa612fa306322d7404771fb2ad4ca"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__pycache__/config.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "6376abffdbdf3f6b9dc673baa64f7d116ddd89fa9212745e7cf8343ab869baae",
+        "size_in_bytes": 395,
+        "sha256_in_prefix": "6376abffdbdf3f6b9dc673baa64f7d116ddd89fa9212745e7cf8343ab869baae"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__pycache__/samtools.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "b85610747162612c7085cab0fd60601ccd04a120a3a736e36c009d157679c495",
+        "size_in_bytes": 4988,
+        "sha256_in_prefix": "b85610747162612c7085cab0fd60601ccd04a120a3a736e36c009d157679c495"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__pycache__/utils.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ac4f3748b3e520a87c9f85a52e7ae3e444912f3f5a0fb6e8c3d157d6a9b3817",
+        "size_in_bytes": 5454,
+        "sha256_in_prefix": "3ac4f3748b3e520a87c9f85a52e7ae3e444912f3f5a0fb6e8c3d157d6a9b3817"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/__pycache__/version.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "9222ba2b6be5e6d11dd5ac3aa0b5fe863d846d4f970491ca2eedd0547e9a1fc5",
+        "size_in_bytes": 271,
+        "sha256_in_prefix": "9222ba2b6be5e6d11dd5ac3aa0b5fe863d846d4f970491ca2eedd0547e9a1fc5"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/bcftools.py",
+        "path_type": "hardlink",
+        "sha256": "6385d8616825043dce50920f799ffd7628175ab4db49c185fef3a3b973ff3cd1",
+        "size_in_bytes": 1528,
+        "sha256_in_prefix": "6385d8616825043dce50920f799ffd7628175ab4db49c185fef3a3b973ff3cd1"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/config.py",
+        "path_type": "hardlink",
+        "sha256": "05d0698a6e52eb570c35cb831117877bc7a5a6f32287fb247369a00d805b9114",
+        "size_in_bytes": 187,
+        "sha256_in_prefix": "05d0698a6e52eb570c35cb831117877bc7a5a6f32287fb247369a00d805b9114"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/htslib_util.h",
+        "path_type": "hardlink",
+        "sha256": "7b63fa139b7074acbc9e6347c88758cadaeb6e7f9167d62b4d9ea9d408f5f299",
+        "size_in_bytes": 2645,
+        "sha256_in_prefix": "7b63fa139b7074acbc9e6347c88758cadaeb6e7f9167d62b4d9ea9d408f5f299"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "hardlink",
+        "sha256": "a106b76849140b5a0167b60c3d646054fc2a69df09acc6317df2312737bfa183",
+        "size_in_bytes": 153,
+        "sha256_in_prefix": "a106b76849140b5a0167b60c3d646054fc2a69df09acc6317df2312737bfa183"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/HMM.h",
+        "path_type": "hardlink",
+        "sha256": "04d7ca17b9e69340874df4c6b8a570a14457a5ef7b6b65139bcab399d0d5bfc2",
+        "size_in_bytes": 6641,
+        "sha256_in_prefix": "04d7ca17b9e69340874df4c6b8a570a14457a5ef7b6b65139bcab399d0d5bfc2"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/abuf.h",
+        "path_type": "hardlink",
+        "sha256": "95691180ca576d920a43ede4fb5509cf7501bd0dcc48c175d7218c8deb8c16cc",
+        "size_in_bytes": 2521,
+        "sha256_in_prefix": "95691180ca576d920a43ede4fb5509cf7501bd0dcc48c175d7218c8deb8c16cc"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/bam2bcf.h",
+        "path_type": "hardlink",
+        "sha256": "9e320aacc7791a7a2342fd62e4c79bdc274be387c47d190f14102d2c8f43280c",
+        "size_in_bytes": 9476,
+        "sha256_in_prefix": "9e320aacc7791a7a2342fd62e4c79bdc274be387c47d190f14102d2c8f43280c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/bam_sample.h",
+        "path_type": "hardlink",
+        "sha256": "ed4e7cd279b4c4d60bf853a17f82220e94078037ab4b8b6e2e199c192f9db68d",
+        "size_in_bytes": 2030,
+        "sha256_in_prefix": "ed4e7cd279b4c4d60bf853a17f82220e94078037ab4b8b6e2e199c192f9db68d"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/bcftools.h",
+        "path_type": "hardlink",
+        "sha256": "52ba1a33f2867d81014681a1a5b3771164272da2045b9f762271ea9de090a711",
+        "size_in_bytes": 9124,
+        "sha256_in_prefix": "52ba1a33f2867d81014681a1a5b3771164272da2045b9f762271ea9de090a711"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/bcftools.pysam.h",
+        "path_type": "hardlink",
+        "sha256": "6a51669cbf3770aa0b64d8b624d8dc366618adae6e36fd806a7b7ec7dc7729ee",
+        "size_in_bytes": 2137,
+        "sha256_in_prefix": "6a51669cbf3770aa0b64d8b624d8dc366618adae6e36fd806a7b7ec7dc7729ee"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/bin.h",
+        "path_type": "hardlink",
+        "sha256": "eb04228c22f1b63e804e85bd6e3580f7b16be615ed0cd9b2542933f7e054b42e",
+        "size_in_bytes": 2188,
+        "sha256_in_prefix": "eb04228c22f1b63e804e85bd6e3580f7b16be615ed0cd9b2542933f7e054b42e"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/call.h",
+        "path_type": "hardlink",
+        "sha256": "24b0d70d7df0f9c3da0e2863566a73f3f527a61883a62f8152e921e85c7ed133",
+        "size_in_bytes": 5333,
+        "sha256_in_prefix": "24b0d70d7df0f9c3da0e2863566a73f3f527a61883a62f8152e921e85c7ed133"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/cigar_state.h",
+        "path_type": "hardlink",
+        "sha256": "8c596b35c3813a7f1c630c3d1b747a5cf5c81c6d4a2b347576f7160509283d23",
+        "size_in_bytes": 6736,
+        "sha256_in_prefix": "8c596b35c3813a7f1c630c3d1b747a5cf5c81c6d4a2b347576f7160509283d23"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/cols.h",
+        "path_type": "hardlink",
+        "sha256": "68a6dbfdba43e4394809581914121d7d9619f15fa25bd41f250d3141facff2d2",
+        "size_in_bytes": 1808,
+        "sha256_in_prefix": "68a6dbfdba43e4394809581914121d7d9619f15fa25bd41f250d3141facff2d2"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/config.h",
+        "path_type": "hardlink",
+        "sha256": "a951e425bc4a3885a7bb88e6d4c6c73686ffeaed73e881e8fcaa9b9642258581",
+        "size_in_bytes": 77,
+        "sha256_in_prefix": "a951e425bc4a3885a7bb88e6d4c6c73686ffeaed73e881e8fcaa9b9642258581"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/convert.h",
+        "path_type": "hardlink",
+        "sha256": "2ccc9e61ec77b4531dafc4a74a86b6f0dfe603b658d00e4b3fa1d9a0cf71077d",
+        "size_in_bytes": 2494,
+        "sha256_in_prefix": "2ccc9e61ec77b4531dafc4a74a86b6f0dfe603b658d00e4b3fa1d9a0cf71077d"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/dbuf.h",
+        "path_type": "hardlink",
+        "sha256": "8d4a47c3d5e81a0732487cce9a1f957b3667a8995ded938848a2ddfe2aebd4b7",
+        "size_in_bytes": 1851,
+        "sha256_in_prefix": "8d4a47c3d5e81a0732487cce9a1f957b3667a8995ded938848a2ddfe2aebd4b7"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/dist.h",
+        "path_type": "hardlink",
+        "sha256": "8713e9f1cd15e92cc95ba8f50950c38fb6b9bf9f7c6d4ccc80a8514e36b82eb9",
+        "size_in_bytes": 2850,
+        "sha256_in_prefix": "8713e9f1cd15e92cc95ba8f50950c38fb6b9bf9f7c6d4ccc80a8514e36b82eb9"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/edlib.h",
+        "path_type": "hardlink",
+        "sha256": "62d0529a87aa6e701c767fb9ce3786c759068f454c129641b2be38da6237ccb5",
+        "size_in_bytes": 11042,
+        "sha256_in_prefix": "62d0529a87aa6e701c767fb9ce3786c759068f454c129641b2be38da6237ccb5"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/extsort.h",
+        "path_type": "hardlink",
+        "sha256": "fdcc258abcb322ca80842c84fba1ef903abc73e785773c610a35b3c1d4044af6",
+        "size_in_bytes": 2180,
+        "sha256_in_prefix": "fdcc258abcb322ca80842c84fba1ef903abc73e785773c610a35b3c1d4044af6"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/filter.h",
+        "path_type": "hardlink",
+        "sha256": "a3f195ba72e31b2a85bfdc8d38208741067a3869abddaa2179872b6eff9dde19",
+        "size_in_bytes": 4217,
+        "sha256_in_prefix": "a3f195ba72e31b2a85bfdc8d38208741067a3869abddaa2179872b6eff9dde19"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/gff.h",
+        "path_type": "hardlink",
+        "sha256": "d77377a9590e5e5e2418a3d9b74c7f8132479d62444d0a669e24ccb4c634bab8",
+        "size_in_bytes": 12913,
+        "sha256_in_prefix": "d77377a9590e5e5e2418a3d9b74c7f8132479d62444d0a669e24ccb4c634bab8"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/gvcf.h",
+        "path_type": "hardlink",
+        "sha256": "1d66450d0a4ac80421e3efea8541eeb049c4fc85a9b167552f083f7c405a603a",
+        "size_in_bytes": 1561,
+        "sha256_in_prefix": "1d66450d0a4ac80421e3efea8541eeb049c4fc85a9b167552f083f7c405a603a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/hclust.h",
+        "path_type": "hardlink",
+        "sha256": "6edb042021d4e121fea0b8f60a9ece8f348b403dd50ffd110fee680143f74c76",
+        "size_in_bytes": 2781,
+        "sha256_in_prefix": "6edb042021d4e121fea0b8f60a9ece8f348b403dd50ffd110fee680143f74c76"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/hex.h",
+        "path_type": "hardlink",
+        "sha256": "9344df01d9f212c07026db4cc76936c467f86eaaf3319f763e9e679ff5ca7a5a",
+        "size_in_bytes": 3036,
+        "sha256_in_prefix": "9344df01d9f212c07026db4cc76936c467f86eaaf3319f763e9e679ff5ca7a5a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/khash_str2str.h",
+        "path_type": "hardlink",
+        "sha256": "bb03b681d6de2d1d5da6d4e095c63bf71d8436f9c7cb03faeb6def13f4492c6e",
+        "size_in_bytes": 3163,
+        "sha256_in_prefix": "bb03b681d6de2d1d5da6d4e095c63bf71d8436f9c7cb03faeb6def13f4492c6e"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/kheap.h",
+        "path_type": "hardlink",
+        "sha256": "b327f078c31e6d7e8d50ad3844934f23a1003ee5083590a5758f9fe2555eb411",
+        "size_in_bytes": 7726,
+        "sha256_in_prefix": "b327f078c31e6d7e8d50ad3844934f23a1003ee5083590a5758f9fe2555eb411"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/kmin.h",
+        "path_type": "hardlink",
+        "sha256": "d26e148117cc3f5517d3451e4d26a142ef2bd66c152c4c4b52ce0cfe63eda6e5",
+        "size_in_bytes": 1619,
+        "sha256_in_prefix": "d26e148117cc3f5517d3451e4d26a142ef2bd66c152c4c4b52ce0cfe63eda6e5"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/mw.h",
+        "path_type": "hardlink",
+        "sha256": "6a61940c8f58a96415c658a04342e451462f6d28fbadf0af7b8c0bc2fb1d446e",
+        "size_in_bytes": 62247,
+        "sha256_in_prefix": "6a61940c8f58a96415c658a04342e451462f6d28fbadf0af7b8c0bc2fb1d446e"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/ploidy.h",
+        "path_type": "hardlink",
+        "sha256": "59f71faba87aaaf6e4f4d1d7239b416f1f0dbb57e764785da03932ef594fd007",
+        "size_in_bytes": 4531,
+        "sha256_in_prefix": "59f71faba87aaaf6e4f4d1d7239b416f1f0dbb57e764785da03932ef594fd007"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/prob1.h",
+        "path_type": "hardlink",
+        "sha256": "20f0440428bdb8ecdd77d97d2b094ad3777898f4cd2a4bca0a26a40ba48aa18d",
+        "size_in_bytes": 3556,
+        "sha256_in_prefix": "20f0440428bdb8ecdd77d97d2b094ad3777898f4cd2a4bca0a26a40ba48aa18d"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/rbuf.h",
+        "path_type": "hardlink",
+        "sha256": "645041794f33301cc60c8fd0cc86e26a2eb9546478ee9a1282b2a2b909ea4c93",
+        "size_in_bytes": 7523,
+        "sha256_in_prefix": "645041794f33301cc60c8fd0cc86e26a2eb9546478ee9a1282b2a2b909ea4c93"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/read_consensus.h",
+        "path_type": "hardlink",
+        "sha256": "a42be0e36acf5cab96210a490d6ef99f0842e2f63d39f8a574b9a5abfd1e626c",
+        "size_in_bytes": 2357,
+        "sha256_in_prefix": "a42be0e36acf5cab96210a490d6ef99f0842e2f63d39f8a574b9a5abfd1e626c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/regidx.h",
+        "path_type": "hardlink",
+        "sha256": "045164b60434c5802562d77f44008491be86888e8782437183c8f5a9518a7c53",
+        "size_in_bytes": 8823,
+        "sha256_in_prefix": "045164b60434c5802562d77f44008491be86888e8782437183c8f5a9518a7c53"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/smpl_ilist.h",
+        "path_type": "hardlink",
+        "sha256": "199b0937b8cdc96924570fe16535875cc555d86198eb83fc5101278f1305d2a4",
+        "size_in_bytes": 2249,
+        "sha256_in_prefix": "199b0937b8cdc96924570fe16535875cc555d86198eb83fc5101278f1305d2a4"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/str_finder.h",
+        "path_type": "hardlink",
+        "sha256": "5e0a96a66091b5b431d26cb5b37bcaf884c3b3c08d244400ad53f15a8518f55e",
+        "size_in_bytes": 2412,
+        "sha256_in_prefix": "5e0a96a66091b5b431d26cb5b37bcaf884c3b3c08d244400ad53f15a8518f55e"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/tsv2vcf.h",
+        "path_type": "hardlink",
+        "sha256": "5e96498957676c0530dcb7b2bd193a36e9d4db024041891354e8c0ac22df2d66",
+        "size_in_bytes": 2750,
+        "sha256_in_prefix": "5e96498957676c0530dcb7b2bd193a36e9d4db024041891354e8c0ac22df2d66"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/utlist.h",
+        "path_type": "hardlink",
+        "sha256": "8c7d53a97d795c26a3c2fac5e2bb45f4ebc8c564a411b035f6bcfc611e6f9c10",
+        "size_in_bytes": 55978,
+        "sha256_in_prefix": "8c7d53a97d795c26a3c2fac5e2bb45f4ebc8c564a411b035f6bcfc611e6f9c10"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/variantkey.h",
+        "path_type": "hardlink",
+        "sha256": "22d19c849dcc8aed1453d35cf0dc4ce20e9102db8c7c3bdb30b2880ef075ce97",
+        "size_in_bytes": 22055,
+        "sha256_in_prefix": "22d19c849dcc8aed1453d35cf0dc4ce20e9102db8c7c3bdb30b2880ef075ce97"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/vcfbuf.h",
+        "path_type": "hardlink",
+        "sha256": "2b8d0dcc13361deb218555c91f39b6241e3387844ba9faa24219c4694fa50667",
+        "size_in_bytes": 6365,
+        "sha256_in_prefix": "2b8d0dcc13361deb218555c91f39b6241e3387844ba9faa24219c4694fa50667"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/bcftools/vcmp.h",
+        "path_type": "hardlink",
+        "sha256": "1e3081f10d94fc1a589685969a764435cc372d26621cda7c14766263c93805c6",
+        "size_in_bytes": 2438,
+        "sha256_in_prefix": "1e3081f10d94fc1a589685969a764435cc372d26621cda7c14766263c93805c6"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/bcf_sr_sort.h",
+        "path_type": "hardlink",
+        "sha256": "091506b9d3c9f974ab9c45af9c33e10442984f193c814a8f0c4ed177931985fd",
+        "size_in_bytes": 4239,
+        "sha256_in_prefix": "091506b9d3c9f974ab9c45af9c33e10442984f193c814a8f0c4ed177931985fd"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/bgzf_internal.h",
+        "path_type": "hardlink",
+        "sha256": "c9dc5ab116dd28752e258fb599074290a08f97b562bec490a392e6d1a226ea33",
+        "size_in_bytes": 2821,
+        "sha256_in_prefix": "c9dc5ab116dd28752e258fb599074290a08f97b562bec490a392e6d1a226ea33"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/config.h",
+        "path_type": "hardlink",
+        "sha256": "a49335605af0a449a72c862ec872a346365350fd3d974d1a02cdf10911e7e3b3",
+        "size_in_bytes": 6965,
+        "sha256_in_prefix": "a49335605af0a449a72c862ec872a346365350fd3d974d1a02cdf10911e7e3b3"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/fuzz_settings.h",
+        "path_type": "hardlink",
+        "sha256": "fbe49c8ab92286f03d7847fad779163de431d21eb3f0dca7ec6e517e34a32055",
+        "size_in_bytes": 1442,
+        "sha256_in_prefix": "fbe49c8ab92286f03d7847fad779163de431d21eb3f0dca7ec6e517e34a32055"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/header.h",
+        "path_type": "hardlink",
+        "sha256": "6f427f48e290bc29bda163e58df51a7664b7ceef1fca237f28cd5988d37fcd7e",
+        "size_in_bytes": 11014,
+        "sha256_in_prefix": "6f427f48e290bc29bda163e58df51a7664b7ceef1fca237f28cd5988d37fcd7e"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/hfile_internal.h",
+        "path_type": "hardlink",
+        "sha256": "3d06e9bbde7776504ad9386e7b68e493bfd66d16d2a682d0281178292111071f",
+        "size_in_bytes": 8046,
+        "sha256_in_prefix": "3d06e9bbde7776504ad9386e7b68e493bfd66d16d2a682d0281178292111071f"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/hts_internal.h",
+        "path_type": "hardlink",
+        "sha256": "2588ffd09a0a3dae6f0d2f05c3dad63c04158d057448c55088c2019f257a8a8a",
+        "size_in_bytes": 7671,
+        "sha256_in_prefix": "2588ffd09a0a3dae6f0d2f05c3dad63c04158d057448c55088c2019f257a8a8a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/hts_time_funcs.h",
+        "path_type": "hardlink",
+        "sha256": "ed1e9d301f1d66d3799496721a068a7d5186dd704c9a43d3a9b14751bf682bd3",
+        "size_in_bytes": 5886,
+        "sha256_in_prefix": "ed1e9d301f1d66d3799496721a068a7d5186dd704c9a43d3a9b14751bf682bd3"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/bgzf.h",
+        "path_type": "hardlink",
+        "sha256": "08fec5212fcaadf3644d11d6ef4bc303bcbd5dddc502da1b1e3c489a8e6302b7",
+        "size_in_bytes": 17985,
+        "sha256_in_prefix": "08fec5212fcaadf3644d11d6ef4bc303bcbd5dddc502da1b1e3c489a8e6302b7"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/cram.h",
+        "path_type": "hardlink",
+        "sha256": "5234e3cf7e006ea8a95e55a328546dbe96eae4ec771a835e7710e350155439b1",
+        "size_in_bytes": 24614,
+        "sha256_in_prefix": "5234e3cf7e006ea8a95e55a328546dbe96eae4ec771a835e7710e350155439b1"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/faidx.h",
+        "path_type": "hardlink",
+        "sha256": "80e8d2b1b597ce4c2ddcdbb88cd38d25394297dac46417dcd02e38e03bd739d7",
+        "size_in_bytes": 15102,
+        "sha256_in_prefix": "80e8d2b1b597ce4c2ddcdbb88cd38d25394297dac46417dcd02e38e03bd739d7"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hfile.h",
+        "path_type": "hardlink",
+        "sha256": "6c173e77a93b454f45d21c717eec01329cdedbaaffd64af3e2dc1c0d3a54f58e",
+        "size_in_bytes": 14065,
+        "sha256_in_prefix": "6c173e77a93b454f45d21c717eec01329cdedbaaffd64af3e2dc1c0d3a54f58e"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts.h",
+        "path_type": "hardlink",
+        "sha256": "9b286747b6c954a264af8f4981bc777fbf687be04508ec815f0fa96eeb891a25",
+        "size_in_bytes": 58286,
+        "sha256_in_prefix": "9b286747b6c954a264af8f4981bc777fbf687be04508ec815f0fa96eeb891a25"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_alloc.h",
+        "path_type": "hardlink",
+        "sha256": "f527997a58ed810b953d33682266fac87eddfc5fc52cc648def2551447f19681",
+        "size_in_bytes": 11143,
+        "sha256_in_prefix": "f527997a58ed810b953d33682266fac87eddfc5fc52cc648def2551447f19681"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_defs.h",
+        "path_type": "hardlink",
+        "sha256": "c165df97a9cdc3d5619c67ceff167d7d5503f577e9dbcdd42d2da9189dba44f4",
+        "size_in_bytes": 4948,
+        "sha256_in_prefix": "c165df97a9cdc3d5619c67ceff167d7d5503f577e9dbcdd42d2da9189dba44f4"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_endian.h",
+        "path_type": "hardlink",
+        "sha256": "e20ea25f51034ee01fdbc916f3e27574b96c1dc8caa1214d94fce722aa42bae2",
+        "size_in_bytes": 11729,
+        "sha256_in_prefix": "e20ea25f51034ee01fdbc916f3e27574b96c1dc8caa1214d94fce722aa42bae2"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_expr.h",
+        "path_type": "hardlink",
+        "sha256": "300d27f523420899409dd6ccc948c06fda9bbb2e6450822e17240c0009ba78ec",
+        "size_in_bytes": 5991,
+        "sha256_in_prefix": "300d27f523420899409dd6ccc948c06fda9bbb2e6450822e17240c0009ba78ec"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_log.h",
+        "path_type": "hardlink",
+        "sha256": "d24d9c9f3afb92bc71425c711787748efd46852011a26ad6a84ccbab061ce685",
+        "size_in_bytes": 3958,
+        "sha256_in_prefix": "d24d9c9f3afb92bc71425c711787748efd46852011a26ad6a84ccbab061ce685"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/hts_os.h",
+        "path_type": "hardlink",
+        "sha256": "3481c3ce931e801b912d962bd0824cd1bfc314a96578c22a15bf5c38ffafb557",
+        "size_in_bytes": 2842,
+        "sha256_in_prefix": "3481c3ce931e801b912d962bd0824cd1bfc314a96578c22a15bf5c38ffafb557"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/kbitset.h",
+        "path_type": "hardlink",
+        "sha256": "3a365b58b8fee3c28bf6f6b434f8b9248e93d67a80b4752be59bf5de0f589d11",
+        "size_in_bytes": 5646,
+        "sha256_in_prefix": "3a365b58b8fee3c28bf6f6b434f8b9248e93d67a80b4752be59bf5de0f589d11"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/kfunc.h",
+        "path_type": "hardlink",
+        "sha256": "9dbe4f59dae695755f6e94e8af13591a0cd042c917296e9d9f9c43adc1f2d9ca",
+        "size_in_bytes": 2828,
+        "sha256_in_prefix": "9dbe4f59dae695755f6e94e8af13591a0cd042c917296e9d9f9c43adc1f2d9ca"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/khash.h",
+        "path_type": "hardlink",
+        "sha256": "a1405dc375003d71d11f1c9ac4a6f9e724435f322236afdf156a7140cf5c7307",
+        "size_in_bytes": 28269,
+        "sha256_in_prefix": "a1405dc375003d71d11f1c9ac4a6f9e724435f322236afdf156a7140cf5c7307"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/khash_str2int.h",
+        "path_type": "hardlink",
+        "sha256": "9d317eed7880722916b6c0abe90c672c8dbc99a119762d62e22c387e236b2541",
+        "size_in_bytes": 4050,
+        "sha256_in_prefix": "9d317eed7880722916b6c0abe90c672c8dbc99a119762d62e22c387e236b2541"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/klist.h",
+        "path_type": "hardlink",
+        "sha256": "f5928fae351b1b28b40c6fe8957f5d6008fa8ac30ee75899c242557bbabe0b88",
+        "size_in_bytes": 5189,
+        "sha256_in_prefix": "f5928fae351b1b28b40c6fe8957f5d6008fa8ac30ee75899c242557bbabe0b88"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/knetfile.h",
+        "path_type": "hardlink",
+        "sha256": "4db065dca43f85a9480c36efdce3c45ad92a0eb29e4a851e9f1417998a3de6be",
+        "size_in_bytes": 3733,
+        "sha256_in_prefix": "4db065dca43f85a9480c36efdce3c45ad92a0eb29e4a851e9f1417998a3de6be"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/kroundup.h",
+        "path_type": "hardlink",
+        "sha256": "6ba71cdbfcddaf3a0f6a3995a449167d3baf5592b872ae8cb272802eb4469a8c",
+        "size_in_bytes": 3295,
+        "sha256_in_prefix": "6ba71cdbfcddaf3a0f6a3995a449167d3baf5592b872ae8cb272802eb4469a8c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/kseq.h",
+        "path_type": "hardlink",
+        "sha256": "f921f612340ec4333abfa56b415a33d91e8ddd912a76bcd2b743836ee92bee61",
+        "size_in_bytes": 9357,
+        "sha256_in_prefix": "f921f612340ec4333abfa56b415a33d91e8ddd912a76bcd2b743836ee92bee61"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/ksort.h",
+        "path_type": "hardlink",
+        "sha256": "eb10232540b3c6a421816f1cb4067cab749e3f2fb51ae7c197a48469b5563757",
+        "size_in_bytes": 11585,
+        "sha256_in_prefix": "eb10232540b3c6a421816f1cb4067cab749e3f2fb51ae7c197a48469b5563757"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/kstring.h",
+        "path_type": "hardlink",
+        "sha256": "7f62afa19dda9e2c38df964489df50c63d5ae260f9f3ecaa833ee39712d6461d",
+        "size_in_bytes": 14267,
+        "sha256_in_prefix": "7f62afa19dda9e2c38df964489df50c63d5ae260f9f3ecaa833ee39712d6461d"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/regidx.h",
+        "path_type": "hardlink",
+        "sha256": "97f1c5d0e52a059f591bf3b011bcd700df01be092633aaea825349d8b936ebb1",
+        "size_in_bytes": 8881,
+        "sha256_in_prefix": "97f1c5d0e52a059f591bf3b011bcd700df01be092633aaea825349d8b936ebb1"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/sam.h",
+        "path_type": "hardlink",
+        "sha256": "d5f1d09655cf44ae03ad05006b6c87dc7d5ed4496c1916c25a11e44873c475c0",
+        "size_in_bytes": 93048,
+        "sha256_in_prefix": "d5f1d09655cf44ae03ad05006b6c87dc7d5ed4496c1916c25a11e44873c475c0"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/synced_bcf_reader.h",
+        "path_type": "hardlink",
+        "sha256": "9b5753f786d88b59a4ffb41e59a3942df235b1bf8bd5a59be6b0c1b6a7f39f84",
+        "size_in_bytes": 20839,
+        "sha256_in_prefix": "9b5753f786d88b59a4ffb41e59a3942df235b1bf8bd5a59be6b0c1b6a7f39f84"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/tbx.h",
+        "path_type": "hardlink",
+        "sha256": "6ce76d9052339d9709cf7456e061983430cdfaef94baa95cd8f45b96aaed8120",
+        "size_in_bytes": 5194,
+        "sha256_in_prefix": "6ce76d9052339d9709cf7456e061983430cdfaef94baa95cd8f45b96aaed8120"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/thread_pool.h",
+        "path_type": "hardlink",
+        "sha256": "85f30eb4d1b40981c883117b351e73d906beaae0f853d3d257bd7aaa9fa10243",
+        "size_in_bytes": 12969,
+        "sha256_in_prefix": "85f30eb4d1b40981c883117b351e73d906beaae0f853d3d257bd7aaa9fa10243"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/vcf.h",
+        "path_type": "hardlink",
+        "sha256": "6d8d6c20020caace3f9d325adacb5fe5e7fba3f9f5a4888a5f1ca0d75ea5563d",
+        "size_in_bytes": 71003,
+        "sha256_in_prefix": "6d8d6c20020caace3f9d325adacb5fe5e7fba3f9f5a4888a5f1ca0d75ea5563d"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/vcf_sweep.h",
+        "path_type": "hardlink",
+        "sha256": "b252632e26c8b53e7506d6f18bb8b7e2c8a3e7c800ffb1681afb4b5653d47f74",
+        "size_in_bytes": 1686,
+        "sha256_in_prefix": "b252632e26c8b53e7506d6f18bb8b7e2c8a3e7c800ffb1681afb4b5653d47f74"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/htslib/vcfutils.h",
+        "path_type": "hardlink",
+        "sha256": "760d2bb171df7069e842f34667226b38285df1a96438c2663ff938bf143a217c",
+        "size_in_bytes": 4919,
+        "sha256_in_prefix": "760d2bb171df7069e842f34667226b38285df1a96438c2663ff938bf143a217c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/sam_internal.h",
+        "path_type": "hardlink",
+        "sha256": "6fea23294241778fdc8c6cbe2f36a15e276abb85c3f464f6d2719c1a77587a39",
+        "size_in_bytes": 4136,
+        "sha256_in_prefix": "6fea23294241778fdc8c6cbe2f36a15e276abb85c3f464f6d2719c1a77587a39"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/textutils_internal.h",
+        "path_type": "hardlink",
+        "sha256": "e0fcbbec7e654a5e865ac817bc5b761eb0ee3272d6fe5c1e266dcc607686d93a",
+        "size_in_bytes": 15642,
+        "sha256_in_prefix": "e0fcbbec7e654a5e865ac817bc5b761eb0ee3272d6fe5c1e266dcc607686d93a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/htslib/thread_pool_internal.h",
+        "path_type": "hardlink",
+        "sha256": "d202028cf5cc044909a14c4b061687e44f793e723fe64376d5476ad56a985065",
+        "size_in_bytes": 5853,
+        "sha256_in_prefix": "d202028cf5cc044909a14c4b061687e44f793e723fe64376d5476ad56a985065"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/bam.h",
+        "path_type": "hardlink",
+        "sha256": "a87feb83ca6a77623534934506784a6afdc74a701360d2f31396fa06d022c902",
+        "size_in_bytes": 1619,
+        "sha256_in_prefix": "a87feb83ca6a77623534934506784a6afdc74a701360d2f31396fa06d022c902"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/bam_ampliconclip.h",
+        "path_type": "hardlink",
+        "sha256": "9e9ad4fe3999405faa7e3d539fbdf345faf5d48e757de93e285d8d4097c45e7c",
+        "size_in_bytes": 1917,
+        "sha256_in_prefix": "9e9ad4fe3999405faa7e3d539fbdf345faf5d48e757de93e285d8d4097c45e7c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/bam_consensus_tab.h",
+        "path_type": "hardlink",
+        "sha256": "892cf61a62b0eeba9032f790d77b3fb86d27bc5dadfd06674f6c633aa7f8425e",
+        "size_in_bytes": 13301,
+        "sha256_in_prefix": "892cf61a62b0eeba9032f790d77b3fb86d27bc5dadfd06674f6c633aa7f8425e"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/bam_lpileup.h",
+        "path_type": "hardlink",
+        "sha256": "19f9643e5216950dd88c08084da4c793fcc2423dd2a6990bfa9bb01b8a4650ad",
+        "size_in_bytes": 2059,
+        "sha256_in_prefix": "19f9643e5216950dd88c08084da4c793fcc2423dd2a6990bfa9bb01b8a4650ad"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/bam_plbuf.h",
+        "path_type": "hardlink",
+        "sha256": "d93e75cac8a72268735e1f70d3b86302d4920f1a659e6119f77f2fc7a38aefc7",
+        "size_in_bytes": 1866,
+        "sha256_in_prefix": "d93e75cac8a72268735e1f70d3b86302d4920f1a659e6119f77f2fc7a38aefc7"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/bedidx.h",
+        "path_type": "hardlink",
+        "sha256": "5482d07e5dee3a0aeef9272cb817eb06bceea9fbe488119508c35969a8dc4f61",
+        "size_in_bytes": 2860,
+        "sha256_in_prefix": "5482d07e5dee3a0aeef9272cb817eb06bceea9fbe488119508c35969a8dc4f61"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/config.h",
+        "path_type": "hardlink",
+        "sha256": "a951e425bc4a3885a7bb88e6d4c6c73686ffeaed73e881e8fcaa9b9642258581",
+        "size_in_bytes": 77,
+        "sha256_in_prefix": "a951e425bc4a3885a7bb88e6d4c6c73686ffeaed73e881e8fcaa9b9642258581"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/consensus_pileup.h",
+        "path_type": "hardlink",
+        "sha256": "eb1e878cfe0bb70e0dded289b4a2c9f065acff0afd6f62ea21d88c2342fe45e1",
+        "size_in_bytes": 6409,
+        "sha256_in_prefix": "eb1e878cfe0bb70e0dded289b4a2c9f065acff0afd6f62ea21d88c2342fe45e1"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/sam_opts.h",
+        "path_type": "hardlink",
+        "sha256": "4be98d401812d9a56f0ef621ebaa46576082c3cb429cb3866bba55807e4685a1",
+        "size_in_bytes": 4551,
+        "sha256_in_prefix": "4be98d401812d9a56f0ef621ebaa46576082c3cb429cb3866bba55807e4685a1"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/sam_utils.h",
+        "path_type": "hardlink",
+        "sha256": "4aca2e690667c52e3c3f24c6b7d5326f7dc7634bcde4086de05dac545386ec6c",
+        "size_in_bytes": 4357,
+        "sha256_in_prefix": "4aca2e690667c52e3c3f24c6b7d5326f7dc7634bcde4086de05dac545386ec6c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/sample.h",
+        "path_type": "hardlink",
+        "sha256": "bc90ab822137e8190e88156dd967ff1b591f3adda3b51c70527cb6268b8120a9",
+        "size_in_bytes": 1560,
+        "sha256_in_prefix": "bc90ab822137e8190e88156dd967ff1b591f3adda3b51c70527cb6268b8120a9"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/samtools.h",
+        "path_type": "hardlink",
+        "sha256": "cbe7befe0c7b030fe516f16959c31c526d61912c2c009d42f63ffc6476858792",
+        "size_in_bytes": 1992,
+        "sha256_in_prefix": "cbe7befe0c7b030fe516f16959c31c526d61912c2c009d42f63ffc6476858792"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/samtools.pysam.h",
+        "path_type": "hardlink",
+        "sha256": "111e4283e96d09f3ce20276eb6ffe41332847f0b30bb2d9c245ce28e828bb6f4",
+        "size_in_bytes": 2137,
+        "sha256_in_prefix": "111e4283e96d09f3ce20276eb6ffe41332847f0b30bb2d9c245ce28e828bb6f4"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/splaysort.h",
+        "path_type": "hardlink",
+        "sha256": "e7d3ecff8e0f005580ea43ee05129edd67b636a1ae6e3340d0257cae5c7f44c1",
+        "size_in_bytes": 14621,
+        "sha256_in_prefix": "e7d3ecff8e0f005580ea43ee05129edd67b636a1ae6e3340d0257cae5c7f44c1"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/stats_isize.h",
+        "path_type": "hardlink",
+        "sha256": "f6a0a143a59bcd513cfb0bc69bc905216b4878ea3640e41c8fe8358600233513",
+        "size_in_bytes": 2484,
+        "sha256_in_prefix": "f6a0a143a59bcd513cfb0bc69bc905216b4878ea3640e41c8fe8358600233513"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/include/samtools/tmp_file.h",
+        "path_type": "hardlink",
+        "sha256": "275a9d9f681ca73ee809c2a307dc089789cb5e26341b0dd74eabe2a9a2826a9c",
+        "size_in_bytes": 3643,
+        "sha256_in_prefix": "275a9d9f681ca73ee809c2a307dc089789cb5e26341b0dd74eabe2a9a2826a9c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcalignedsegment.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "ff72760744a0adbc387788c647a385488733a5bf88b0b6930a0878d075d1aa39",
+        "size_in_bytes": 964288,
+        "sha256_in_prefix": "c9f0c2d059d1538f1e72df55cc3af33c50d03f8d11d778bfd511f6e25f329dbd"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcalignedsegment.pxd",
+        "path_type": "hardlink",
+        "sha256": "a63849e66675feae7056a825369abf6c7bc778789c179c4198b7d009a16293b9",
+        "size_in_bytes": 3288,
+        "sha256_in_prefix": "a63849e66675feae7056a825369abf6c7bc778789c179c4198b7d009a16293b9"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcalignedsegment.pyi",
+        "path_type": "hardlink",
+        "sha256": "ad4356e2174e03bc2186cd05ff34b6619018e0cf7cb764f5744f7aa14b51af61",
+        "size_in_bytes": 8591,
+        "sha256_in_prefix": "ad4356e2174e03bc2186cd05ff34b6619018e0cf7cb764f5744f7aa14b51af61"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcalignmentfile.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "e5db5d69ddf2565a34ab08060982ff74973f5bb1b2b683300e35ecf783d5bf25",
+        "size_in_bytes": 794880,
+        "sha256_in_prefix": "e9c19f8f6356650528ae0ccb6ae95061e0b43471cd0c8bb0db8844a718c597ae"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcalignmentfile.pxd",
+        "path_type": "hardlink",
+        "sha256": "98a374bef7e3a140bdeec048b5d6391ab088b5e08b1894a8ea285fa13d81f65a",
+        "size_in_bytes": 3531,
+        "sha256_in_prefix": "98a374bef7e3a140bdeec048b5d6391ab088b5e08b1894a8ea285fa13d81f65a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcalignmentfile.pyi",
+        "path_type": "hardlink",
+        "sha256": "abbd521fd9fc17931b09309f6ae09db4a5b96d9e6928165a99549bcced345b5a",
+        "size_in_bytes": 7654,
+        "sha256_in_prefix": "abbd521fd9fc17931b09309f6ae09db4a5b96d9e6928165a99549bcced345b5a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbcf.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "7365a09ceae4c9b26f5e19de04ddb4b525abe1f79df0a636fdfaf7723cd918e3",
+        "size_in_bytes": 1425728,
+        "sha256_in_prefix": "45ce09ca83915e7bbaf227ef962c076cf048eefb780cea169b6704db5cbd7e37"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbcf.pxd",
+        "path_type": "hardlink",
+        "sha256": "ce1b868cb1ae18e2d6473f39e61b22d54b3eca332244d3d8aac6aeb68259447a",
+        "size_in_bytes": 4116,
+        "sha256_in_prefix": "ce1b868cb1ae18e2d6473f39e61b22d54b3eca332244d3d8aac6aeb68259447a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbcf.pyi",
+        "path_type": "hardlink",
+        "sha256": "4012b9217f9d32f1dec3676f15bda8529c22602570466bdf857a24dd876e9cbc",
+        "size_in_bytes": 11699,
+        "sha256_in_prefix": "4012b9217f9d32f1dec3676f15bda8529c22602570466bdf857a24dd876e9cbc"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbcftools.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "233060dbbe56af5b81b5474ea2968e079ad48a95972751b52d42f28bc3bc48f5",
+        "size_in_bytes": 1845632,
+        "sha256_in_prefix": "9c5068ac286699140319fabe6b68df7dd1d5fd0d08aeb6b14eb197ba7a25f7ff"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbcftools.pxd",
+        "path_type": "hardlink",
+        "sha256": "9fd66906f68e3199e8b4f9b7e356d0b3ed1800fd5451a998154a583893d390cf",
+        "size_in_bytes": 301,
+        "sha256_in_prefix": "9fd66906f68e3199e8b4f9b7e356d0b3ed1800fd5451a998154a583893d390cf"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbcftools.pyi",
+        "path_type": "hardlink",
+        "sha256": "59fadf12467e09b3229d4f088c1179f33aa1a93f1372abbd186cebb6f8ce886a",
+        "size_in_bytes": 31,
+        "sha256_in_prefix": "59fadf12467e09b3229d4f088c1179f33aa1a93f1372abbd186cebb6f8ce886a"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbgzf.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "9a025140a90b39ea2c96bf800e8b5dc9872413e02a7e0a7a1040ee1a8d009190",
+        "size_in_bytes": 193360,
+        "sha256_in_prefix": "347e8c798734800a664ff7746ad5f8d68821152a2ad5159f8280a43e50794e2c"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbgzf.pxd",
+        "path_type": "hardlink",
+        "sha256": "1719ac7875d463142c34431e6c7ec712ff96355bf90ae299dffb3354d3039cd1",
+        "size_in_bytes": 149,
+        "sha256_in_prefix": "1719ac7875d463142c34431e6c7ec712ff96355bf90ae299dffb3354d3039cd1"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcbgzf.pyi",
+        "path_type": "hardlink",
+        "sha256": "93d3a99b00c425304fead069ca9d7d72937c65ca4c7c043f9e1df173f789d86f",
+        "size_in_bytes": 1117,
+        "sha256_in_prefix": "93d3a99b00c425304fead069ca9d7d72937c65ca4c7c043f9e1df173f789d86f"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcfaidx.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "4e1bc1e5abef5a3517469605753cc88336ec0d393b82fa48d0dc88c777746ee7",
+        "size_in_bytes": 322776,
+        "sha256_in_prefix": "6f8ef5c99e75cbe5c8effca69f1de50c35afa9f58145a367209d5bc0b89a5fe2"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcfaidx.pxd",
+        "path_type": "hardlink",
+        "sha256": "29a96c1db44a1d1e175163c270ec7ebb7178c24f74e5e9b55c3edc9545e53b7d",
+        "size_in_bytes": 2177,
+        "sha256_in_prefix": "29a96c1db44a1d1e175163c270ec7ebb7178c24f74e5e9b55c3edc9545e53b7d"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcfaidx.pyi",
+        "path_type": "hardlink",
+        "sha256": "790317721cc1dbc9380d6752252dbecbaf1779c344f43bf1a817f60efbd3d4c6",
+        "size_in_bytes": 2560,
+        "sha256_in_prefix": "790317721cc1dbc9380d6752252dbecbaf1779c344f43bf1a817f60efbd3d4c6"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libchtslib.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "7a0908fb287f3124d170b36b13f24ff3afa7edde258beff30ec3a9b8e2a6471e",
+        "size_in_bytes": 2048368,
+        "sha256_in_prefix": "5dac3d3c1a80ee388ce266fc5fad9044df26d334cd753c7aacedcd47adc54a57"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libchtslib.pxd",
+        "path_type": "hardlink",
+        "sha256": "56a36e9eaad42ea2f642c1daa0e1867e783b937aae33e750a31498a047837e86",
+        "size_in_bytes": 59244,
+        "sha256_in_prefix": "56a36e9eaad42ea2f642c1daa0e1867e783b937aae33e750a31498a047837e86"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libchtslib.pyi",
+        "path_type": "hardlink",
+        "sha256": "43404e61cf845ea1d0525691c1d12348d29a6461e95a717b947ac4de3f4ed619",
+        "size_in_bytes": 3729,
+        "sha256_in_prefix": "43404e61cf845ea1d0525691c1d12348d29a6461e95a717b947ac4de3f4ed619"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcsamfile.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "46e620e2d0ef47b7f38814c9b8b6bf679a51990fb9c3c727cf627e6004e25f42",
+        "size_in_bytes": 136016,
+        "sha256_in_prefix": "7044526f5b91515e1814cdbffb387fdaae1f5d696d0a5ecd787a687aefd08bcb"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcsamfile.pxd",
+        "path_type": "hardlink",
+        "sha256": "efc611e62536d171df1be78c6949902582bd2d4b99b011bf3104b0ce098fde80",
+        "size_in_bytes": 1538,
+        "sha256_in_prefix": "efc611e62536d171df1be78c6949902582bd2d4b99b011bf3104b0ce098fde80"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcsamfile.pyi",
+        "path_type": "hardlink",
+        "sha256": "69b538d4e519a83277c87997af3bf48da0e3c9def845e69317ee07d138624aab",
+        "size_in_bytes": 176,
+        "sha256_in_prefix": "69b538d4e519a83277c87997af3bf48da0e3c9def845e69317ee07d138624aab"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcsamtools.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "4e5e2c528782b8690898366645eafcc391af5454878fdd68a82b376bde5b949e",
+        "size_in_bytes": 1236824,
+        "sha256_in_prefix": "ff7702ee5a77095ba3f4d192ad5e2612edd010c3c451a38b1690c8684c664fa9"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcsamtools.pxd",
+        "path_type": "hardlink",
+        "sha256": "9840a592db79d774c821abab4900d64c88d5f79070f80d0789274682687e1aa2",
+        "size_in_bytes": 301,
+        "sha256_in_prefix": "9840a592db79d774c821abab4900d64c88d5f79070f80d0789274682687e1aa2"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcsamtools.pyi",
+        "path_type": "hardlink",
+        "sha256": "c4e7d07001fbe468e617d0a319150bcc657b36f2e0ab1175d8a59a68bef247b7",
+        "size_in_bytes": 31,
+        "sha256_in_prefix": "c4e7d07001fbe468e617d0a319150bcc657b36f2e0ab1175d8a59a68bef247b7"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libctabix.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "500f99480a818c6e68d1d8d45299d67ef6e56b318368c4af93d68f9a46f47414",
+        "size_in_bytes": 470520,
+        "sha256_in_prefix": "f1db296feadef68ccf05875740c4bc31b31c6a8a552ac280fe36804bec4169d4"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libctabix.pxd",
+        "path_type": "hardlink",
+        "sha256": "164a2026863dd85681e79b6e950c9d987abb06941f32961ab1ed681dfe57b8a6",
+        "size_in_bytes": 1720,
+        "sha256_in_prefix": "164a2026863dd85681e79b6e950c9d987abb06941f32961ab1ed681dfe57b8a6"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libctabix.pyi",
+        "path_type": "hardlink",
+        "sha256": "f6d571e04cfbc8c1f02c5a51444350b3057e54a7e5e8a9045c2c00168c1c870b",
+        "size_in_bytes": 3041,
+        "sha256_in_prefix": "f6d571e04cfbc8c1f02c5a51444350b3057e54a7e5e8a9045c2c00168c1c870b"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libctabixproxies.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "a38b57ea999c3d45122b89a4772d76c194543ae6911d551ae4912c7b57453b5d",
+        "size_in_bytes": 479072,
+        "sha256_in_prefix": "380b19d3b26f3ab3bf5b1c5fd46488130395b88d17d713917d8fca73e2678ced"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libctabixproxies.pxd",
+        "path_type": "hardlink",
+        "sha256": "19b2b09b71da7b8116113ff960eaee2d6d51014087cf2f7f1c0279a00c221179",
+        "size_in_bytes": 1322,
+        "sha256_in_prefix": "19b2b09b71da7b8116113ff960eaee2d6d51014087cf2f7f1c0279a00c221179"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libctabixproxies.pyi",
+        "path_type": "hardlink",
+        "sha256": "79578295a69f593b4ec4dd121cbb077626fec981d7e96340d8ac89a62cc874bd",
+        "size_in_bytes": 2127,
+        "sha256_in_prefix": "79578295a69f593b4ec4dd121cbb077626fec981d7e96340d8ac89a62cc874bd"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcutils.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "aa702612c56c4d3cb5d208210609468a4bdf798978d9a94205e0f2e3b3ba5acb",
+        "size_in_bytes": 426256,
+        "sha256_in_prefix": "2bf1d0c0676555dee77d0fe3e57ce7e0f16d3c9d34327149ef0fec0c696b1713"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcutils.pxd",
+        "path_type": "hardlink",
+        "sha256": "bcfff53b04d69a048462c500f2e671c95ba43a7e84743144680c09027ef7833b",
+        "size_in_bytes": 1781,
+        "sha256_in_prefix": "bcfff53b04d69a048462c500f2e671c95ba43a7e84743144680c09027ef7833b"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcutils.pyi",
+        "path_type": "hardlink",
+        "sha256": "eb674b6798b8084373e103f69054b436fff8c253c11f38ded31b2c149262a222",
+        "size_in_bytes": 973,
+        "sha256_in_prefix": "eb674b6798b8084373e103f69054b436fff8c253c11f38ded31b2c149262a222"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcvcf.cpython-314-x86_64-linux-gnu.so",
+        "prefix_placeholder": "/opt/conda/conda-bld/pysam_1788773305640/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "f3bc3aa8ef4e3310e7ea58cbba298c082184ec0156863fb8c382e54bba06dce2",
+        "size_in_bytes": 770976,
+        "sha256_in_prefix": "64464ccdb8a7565084884d99b2b983b723c500dd573bb2fe2e992f8e58ee7a64"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcvcf.pxd",
+        "path_type": "hardlink",
+        "sha256": "988bf9f5d29431f03e5044bbdf0b64024eb08c17c5bce132b13f1dd1c0c70cb5",
+        "size_in_bytes": 27,
+        "sha256_in_prefix": "988bf9f5d29431f03e5044bbdf0b64024eb08c17c5bce132b13f1dd1c0c70cb5"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/libcvcf.pyi",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/samtools.py",
+        "path_type": "hardlink",
+        "sha256": "b6dcfe37d558d3dc6c87fb515908440bc04d557635fcd230dd72235e9ba731c6",
+        "size_in_bytes": 3268,
+        "sha256_in_prefix": "b6dcfe37d558d3dc6c87fb515908440bc04d557635fcd230dd72235e9ba731c6"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/utils.py",
+        "path_type": "hardlink",
+        "sha256": "976cadaee4eff4f14868a29329060314ceb0f801074c9226c69d3eaa959c60ab",
+        "size_in_bytes": 3772,
+        "sha256_in_prefix": "976cadaee4eff4f14868a29329060314ceb0f801074c9226c69d3eaa959c60ab"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/version.py",
+        "path_type": "hardlink",
+        "sha256": "88490a06a3b9385c82769a1581f848b062f127586580389a6add81baf307a7db",
+        "size_in_bytes": 143,
+        "sha256_in_prefix": "88490a06a3b9385c82769a1581f848b062f127586580389a6add81baf307a7db"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/pysam/version.pyi",
+        "path_type": "hardlink",
+        "sha256": "c7629f767baec5c837f092b859e655797b06d3f0e9d7d805786bcbadf064731a",
+        "size_in_bytes": 93,
+        "sha256_in_prefix": "c7629f767baec5c837f092b859e655797b06d3f0e9d7d805786bcbadf064731a"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/pysam-0.24.1-py314ha0fe93d_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "pysam[version='>=0.19']"
+  ]
+}

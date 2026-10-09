@@ -1,0 +1,60 @@
+{
+  "name": "libpython",
+  "version": "3.14.8",
+  "build": "hdc7f604_101_cp314",
+  "build_number": 101,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "subdir": "linux-64",
+  "fn": "libpython-3.14.8-hdc7f604_101_cp314.conda",
+  "md5": "5782a594549b816514ca434a42bbf11a",
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/libpython-3.14.8-hdc7f604_101_cp314.conda",
+  "sha256": "3dc27daa3470f9b6f863942d99db623d79204ea478955ea73e97d3519cae2ab5",
+  "depends": [
+    "__glibc >=2.17,<3.0.a0",
+    "libgcc >=15",
+    "libstdcxx >=15"
+  ],
+  "constrains": [],
+  "license": "Python-2.0",
+  "timestamp": 1791333423324,
+  "size": 10544845,
+  "_requested_specs": [],
+  "package_tarball_full_path": "/opt/conda/pkgs/libpython-3.14.8-hdc7f604_101_cp314.conda",
+  "extracted_package_dir": "/opt/conda/pkgs/libpython-3.14.8-hdc7f604_101_cp314",
+  "files": [
+    "lib/libpython3.14.so",
+    "lib/libpython3.14.so.1.0",
+    "lib/libpython3.so"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/libpython3.14.so",
+        "path_type": "softlink",
+        "sha256": "7b452b49a31aaccf64cf0b91dd708e80ca23fec2d269f63498e0391910ec8b8a",
+        "size_in_bytes": 36122840
+      },
+      {
+        "_path": "lib/libpython3.14.so.1.0",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/python-split_1791331771376/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "7b452b49a31aaccf64cf0b91dd708e80ca23fec2d269f63498e0391910ec8b8a",
+        "size_in_bytes": 36122840,
+        "sha256_in_prefix": "f51c1d4983a6e2f1002c268137c03dc65a231c9404cfd74cd6714fd1943c4c26"
+      },
+      {
+        "_path": "lib/libpython3.so",
+        "path_type": "hardlink",
+        "sha256": "c222d8439d487f0213bf174a738529890045293982ead04631b301fd950c4f5a",
+        "size_in_bytes": 14920,
+        "sha256_in_prefix": "c222d8439d487f0213bf174a738529890045293982ead04631b301fd950c4f5a"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/libpython-3.14.8-hdc7f604_101_cp314",
+    "type": 1
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "name": "intervaltree",
+  "version": "3.2.1",
+  "build": "pyh5ded981_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "intervaltree-3.2.1-pyh5ded981_0.conda",
+  "md5": "e1f65b93cfcfebcf913bfc02c34005cb",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/intervaltree-3.2.1-pyh5ded981_0.conda",
+  "sha256": "f61d7c6f3db2ebb511f0bdaf12c37eb5715f90ba869ff0cad5cb403d1eaba464",
+  "depends": [
+    "python >=3.11",
+    "sortedcontainers",
+    "python"
+  ],
+  "constrains": [],
+  "noarch": "python",
+  "license": "Apache-2.0",
+  "package_type": "noarch_python",
+  "timestamp": 1790005075635,
+  "size": 1070834,
+  "requested_spec": "intervaltree",
+  "package_tarball_full_path": "/opt/conda/pkgs/intervaltree-3.2.1-pyh5ded981_0.conda",
+  "extracted_package_dir": "/opt/conda/pkgs/intervaltree-3.2.1-pyh5ded981_0",
+  "files": [
+    "etc/conda/test-files/intervaltree/1/pyproject.toml",
+    "etc/conda/test-files/intervaltree/1/test/__init__.py",
+    "etc/conda/test-files/intervaltree/1/test/data/__init__.py",
+    "etc/conda/test-files/intervaltree/1/test/data/issue25_orig.py",
+    "etc/conda/test-files/intervaltree/1/test/data/issue4.py",
+    "etc/conda/test-files/intervaltree/1/test/data/issue41_orig.py",
+    "etc/conda/test-files/intervaltree/1/test/data/issue4_result.py",
+    "etc/conda/test-files/intervaltree/1/test/data/ivs0.py",
+    "etc/conda/test-files/intervaltree/1/test/data/ivs1.py",
+    "etc/conda/test-files/intervaltree/1/test/data/ivs1_float_copy_structure.py",
+    "etc/conda/test-files/intervaltree/1/test/data/ivs2.py",
+    "etc/conda/test-files/intervaltree/1/test/data/ivs3.py",
+    "etc/conda/test-files/intervaltree/1/test/interval_methods/__init__.py",
+    "etc/conda/test-files/intervaltree/1/test/interval_methods/binary_test.py",
+    "etc/conda/test-files/intervaltree/1/test/interval_methods/sorting_test.py",
+    "etc/conda/test-files/intervaltree/1/test/interval_methods/unary_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervals.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/__init__.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/copy_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/debug_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/delete_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/init_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/insert_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/query_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/restructure_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/setlike_test.py",
+    "etc/conda/test-files/intervaltree/1/test/intervaltrees.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/__init__.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue25.txt",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue25_test.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue26_test.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue27_test.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue4.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue41_test.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue67_test.py",
+    "etc/conda/test-files/intervaltree/1/test/issues/issue72_test.py",
+    "etc/conda/test-files/intervaltree/1/test/match.py",
+    "etc/conda/test-files/intervaltree/1/test/optimality/__init__.py",
+    "etc/conda/test-files/intervaltree/1/test/optimality/optimality_test.py",
+    "etc/conda/test-files/intervaltree/1/test/optimality/optimality_test_matrix.py",
+    "etc/conda/test-files/intervaltree/1/test/pprint.py",
+    "etc/conda/test-files/intervaltree/1/test/progress_bar.py",
+    "lib/python3.14/site-packages/intervaltree/__init__.py",
+    "lib/python3.14/site-packages/intervaltree/interval.py",
+    "lib/python3.14/site-packages/intervaltree/intervaltree.py",
+    "lib/python3.14/site-packages/intervaltree/node.py",
+    "lib/python3.14/site-packages/intervaltree-3.2.1.dist-info/INSTALLER",
+    "lib/python3.14/site-packages/intervaltree-3.2.1.dist-info/METADATA",
+    "lib/python3.14/site-packages/intervaltree-3.2.1.dist-info/RECORD",
+    "lib/python3.14/site-packages/intervaltree-3.2.1.dist-info/REQUESTED",
+    "lib/python3.14/site-packages/intervaltree-3.2.1.dist-info/WHEEL",
+    "lib/python3.14/site-packages/intervaltree-3.2.1.dist-info/direct_url.json",
+    "lib/python3.14/site-packages/intervaltree-3.2.1.dist-info/licenses/LICENSE.txt",
+    "lib/python3.14/site-packages/intervaltree/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/intervaltree/__pycache__/interval.cpython-314.pyc",
+    "lib/python3.14/site-packages/intervaltree/__pycache__/intervaltree.cpython-314.pyc",
+    "lib/python3.14/site-packages/intervaltree/__pycache__/node.cpython-314.pyc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "6a8e3c2f292d009d28bf9d1e19c054c95a9344e725520ab992cf5ab435f9d49a",
+        "size_in_bytes": 2641,
+        "sha256_in_prefix": "6a8e3c2f292d009d28bf9d1e19c054c95a9344e725520ab992cf5ab435f9d49a"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2bd0a090548bc631d7c5a56d0cda2fb2a2d07248a6143918d3c4abb66f9e7951",
+        "size_in_bytes": 586,
+        "sha256_in_prefix": "2bd0a090548bc631d7c5a56d0cda2fb2a2d07248a6143918d3c4abb66f9e7951"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0ae6750465f8f9027474efdf48d38141ada581c7760e5fa26faeb1fff623e001",
+        "size_in_bytes": 219,
+        "sha256_in_prefix": "0ae6750465f8f9027474efdf48d38141ada581c7760e5fa26faeb1fff623e001"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/issue25_orig.py",
+        "path_type": "hardlink",
+        "sha256": "22c9bc36fba80aa446557e51fc8690e50fcebdc95e4d44aa91135131a114e357",
+        "size_in_bytes": 2280,
+        "sha256_in_prefix": "22c9bc36fba80aa446557e51fc8690e50fcebdc95e4d44aa91135131a114e357"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/issue4.py",
+        "path_type": "hardlink",
+        "sha256": "790e4e7397d3a560776b7f9d0cb63e378597ecea13d341f128a227bab5d27512",
+        "size_in_bytes": 4903833,
+        "sha256_in_prefix": "790e4e7397d3a560776b7f9d0cb63e378597ecea13d341f128a227bab5d27512"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/issue41_orig.py",
+        "path_type": "hardlink",
+        "sha256": "a0337b429ee74825660847f5316da995b881d4185c60807ce6d37a9bf2738103",
+        "size_in_bytes": 2451,
+        "sha256_in_prefix": "a0337b429ee74825660847f5316da995b881d4185c60807ce6d37a9bf2738103"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/issue4_result.py",
+        "path_type": "hardlink",
+        "sha256": "df6edcdc3294bef6322bc6e240b072bc6b61ced01db02ff3164b0fc880955a16",
+        "size_in_bytes": 1083603,
+        "sha256_in_prefix": "df6edcdc3294bef6322bc6e240b072bc6b61ced01db02ff3164b0fc880955a16"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/ivs0.py",
+        "path_type": "hardlink",
+        "sha256": "1cac7fe7317334883d19cb02d4f395327404d0e27d7505c7cf56afc1ba5ad571",
+        "size_in_bytes": 43,
+        "sha256_in_prefix": "1cac7fe7317334883d19cb02d4f395327404d0e27d7505c7cf56afc1ba5ad571"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/ivs1.py",
+        "path_type": "hardlink",
+        "sha256": "0c18b7c0f6e41615751cb76ab4760304a31c83550a5eac94de80a2583f557836",
+        "size_in_bytes": 239,
+        "sha256_in_prefix": "0c18b7c0f6e41615751cb76ab4760304a31c83550a5eac94de80a2583f557836"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/ivs1_float_copy_structure.py",
+        "path_type": "hardlink",
+        "sha256": "6cf7478cc1e80ee218fb5b8362d46e968343917908b535965cf7cec2c597ac48",
+        "size_in_bytes": 255,
+        "sha256_in_prefix": "6cf7478cc1e80ee218fb5b8362d46e968343917908b535965cf7cec2c597ac48"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/ivs2.py",
+        "path_type": "hardlink",
+        "sha256": "74eb6e02050f2d757566655fcb27a8a9e8d7a5920066b76548102e1f51b533f2",
+        "size_in_bytes": 1893,
+        "sha256_in_prefix": "74eb6e02050f2d757566655fcb27a8a9e8d7a5920066b76548102e1f51b533f2"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/data/ivs3.py",
+        "path_type": "hardlink",
+        "sha256": "d988c53bd11691db18597d5ef95a1c81f8ed61c08c4781f6e1a97e4f0609a316",
+        "size_in_bytes": 1923,
+        "sha256_in_prefix": "d988c53bd11691db18597d5ef95a1c81f8ed61c08c4781f6e1a97e4f0609a316"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/interval_methods/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7c2389ec1cde6481eebc6ab75792142c4126620d0bc941b877b5f04cedb22b28",
+        "size_in_bytes": 745,
+        "sha256_in_prefix": "7c2389ec1cde6481eebc6ab75792142c4126620d0bc941b877b5f04cedb22b28"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/interval_methods/binary_test.py",
+        "path_type": "hardlink",
+        "sha256": "5dcb11b230e76d8fb5860a225c9b4e1cc82ce90bd97755e813ccfe9ceeb8139b",
+        "size_in_bytes": 3542,
+        "sha256_in_prefix": "5dcb11b230e76d8fb5860a225c9b4e1cc82ce90bd97755e813ccfe9ceeb8139b"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/interval_methods/sorting_test.py",
+        "path_type": "hardlink",
+        "sha256": "4464a032319dd906e9252b70e362148c95ab0a361f9862a8d9aa9a69575644f1",
+        "size_in_bytes": 6982,
+        "sha256_in_prefix": "4464a032319dd906e9252b70e362148c95ab0a361f9862a8d9aa9a69575644f1"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/interval_methods/unary_test.py",
+        "path_type": "hardlink",
+        "sha256": "99e98eb8b047e702cf162e41c15b11778c2408250ae1412efc6254e54182d130",
+        "size_in_bytes": 2452,
+        "sha256_in_prefix": "99e98eb8b047e702cf162e41c15b11778c2408250ae1412efc6254e54182d130"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervals.py",
+        "path_type": "hardlink",
+        "sha256": "ff9adffb540ad6453baffa1425b03ad79351b2815eec3699ba9aa3dff732ef2e",
+        "size_in_bytes": 3945,
+        "sha256_in_prefix": "ff9adffb540ad6453baffa1425b03ad79351b2815eec3699ba9aa3dff732ef2e"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "69c097623ffcd9039f86684d44ba7ebbc44d6ae299fab85b7c72131bd502c4ed",
+        "size_in_bytes": 749,
+        "sha256_in_prefix": "69c097623ffcd9039f86684d44ba7ebbc44d6ae299fab85b7c72131bd502c4ed"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/copy_test.py",
+        "path_type": "hardlink",
+        "sha256": "47085247154f1ccc6f602ed21c5db4ed387015cc288037abaf1f17dad3602e2a",
+        "size_in_bytes": 2030,
+        "sha256_in_prefix": "47085247154f1ccc6f602ed21c5db4ed387015cc288037abaf1f17dad3602e2a"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/debug_test.py",
+        "path_type": "hardlink",
+        "sha256": "4d92b929f1987964b6622a1e31e4fc78d4c3317d2e18335f026081d4859d54b5",
+        "size_in_bytes": 2061,
+        "sha256_in_prefix": "4d92b929f1987964b6622a1e31e4fc78d4c3317d2e18335f026081d4859d54b5"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/delete_test.py",
+        "path_type": "hardlink",
+        "sha256": "67d869cde2626d3719f14fc49cb24d4febc3b0293b4b182c2221d6a71f1f1b31",
+        "size_in_bytes": 3555,
+        "sha256_in_prefix": "67d869cde2626d3719f14fc49cb24d4febc3b0293b4b182c2221d6a71f1f1b31"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/init_test.py",
+        "path_type": "hardlink",
+        "sha256": "ca3c49145ca6ddd9711533ad3ec14f4dda130388ccf23ba5c74927ad73f4d5e0",
+        "size_in_bytes": 2289,
+        "sha256_in_prefix": "ca3c49145ca6ddd9711533ad3ec14f4dda130388ccf23ba5c74927ad73f4d5e0"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/insert_test.py",
+        "path_type": "hardlink",
+        "sha256": "dbd52c8d71dd370973ed1de18e207cd0e724cf71869aadb6bcc8307c923dcd3b",
+        "size_in_bytes": 4382,
+        "sha256_in_prefix": "dbd52c8d71dd370973ed1de18e207cd0e724cf71869aadb6bcc8307c923dcd3b"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/query_test.py",
+        "path_type": "hardlink",
+        "sha256": "4a196c502d17cb1509e8368e88b8b7301774a48905fe4aaadda7fa80ebeedb35",
+        "size_in_bytes": 5332,
+        "sha256_in_prefix": "4a196c502d17cb1509e8368e88b8b7301774a48905fe4aaadda7fa80ebeedb35"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/restructure_test.py",
+        "path_type": "hardlink",
+        "sha256": "2f48e6e7987326d14e3395eef794b151c9a4d03a730cc24720fc8472fe9afeb1",
+        "size_in_bytes": 17270,
+        "sha256_in_prefix": "2f48e6e7987326d14e3395eef794b151c9a4d03a730cc24720fc8472fe9afeb1"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltree_methods/setlike_test.py",
+        "path_type": "hardlink",
+        "sha256": "d0b6d2614ab2cb02e01868b2f8b9f669198cbe52abce7cfc91c45a2008105ed2",
+        "size_in_bytes": 11347,
+        "sha256_in_prefix": "d0b6d2614ab2cb02e01868b2f8b9f669198cbe52abce7cfc91c45a2008105ed2"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/intervaltrees.py",
+        "path_type": "hardlink",
+        "sha256": "df16087f31ecdabc8ad9009676c8aab4cafadc4fcde3d15747f6fb28983a2f4a",
+        "size_in_bytes": 1406,
+        "sha256_in_prefix": "df16087f31ecdabc8ad9009676c8aab4cafadc4fcde3d15747f6fb28983a2f4a"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2fd393d1ac17376ae215145d9640a76e7e332e302195e0517bba2d1597ecf852",
+        "size_in_bytes": 754,
+        "sha256_in_prefix": "2fd393d1ac17376ae215145d9640a76e7e332e302195e0517bba2d1597ecf852"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue25.txt",
+        "path_type": "hardlink",
+        "sha256": "de48146c9383d1a1ffebd46bf2d61b29dc1bdfdc3528b9662d06a86fc2c4823a",
+        "size_in_bytes": 3431,
+        "sha256_in_prefix": "de48146c9383d1a1ffebd46bf2d61b29dc1bdfdc3528b9662d06a86fc2c4823a"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue25_test.py",
+        "path_type": "hardlink",
+        "sha256": "18be1a170bf9247623adece284656a60ad56093c40d87e6c2944e69a9ae196b1",
+        "size_in_bytes": 2628,
+        "sha256_in_prefix": "18be1a170bf9247623adece284656a60ad56093c40d87e6c2944e69a9ae196b1"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue26_test.py",
+        "path_type": "hardlink",
+        "sha256": "2993b6fdaa4dfb0d555ca69a9e4c071000438caa36047a4ddcc9aa92bfaf325f",
+        "size_in_bytes": 3007,
+        "sha256_in_prefix": "2993b6fdaa4dfb0d555ca69a9e4c071000438caa36047a4ddcc9aa92bfaf325f"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue27_test.py",
+        "path_type": "hardlink",
+        "sha256": "bcd5bd9a7adf1cacd4f06a787a26991d53f7937c4172e0309708e7357178c8c5",
+        "size_in_bytes": 1909,
+        "sha256_in_prefix": "bcd5bd9a7adf1cacd4f06a787a26991d53f7937c4172e0309708e7357178c8c5"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue4.py",
+        "path_type": "hardlink",
+        "sha256": "d2b20d78aad4b40a008f71e193d358cfc5d7cf0ba35e30c4fdddd0a74add9052",
+        "size_in_bytes": 2372,
+        "sha256_in_prefix": "d2b20d78aad4b40a008f71e193d358cfc5d7cf0ba35e30c4fdddd0a74add9052"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue41_test.py",
+        "path_type": "hardlink",
+        "sha256": "14a2ece8011fed62a52bd79d59b85ef9dc5b2ee79fb29d32a0d104cd09a95f14",
+        "size_in_bytes": 1864,
+        "sha256_in_prefix": "14a2ece8011fed62a52bd79d59b85ef9dc5b2ee79fb29d32a0d104cd09a95f14"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue67_test.py",
+        "path_type": "hardlink",
+        "sha256": "6303b2cf2289c79529269b3464f907b294541c71382f32ac581bb45650aacd3f",
+        "size_in_bytes": 2448,
+        "sha256_in_prefix": "6303b2cf2289c79529269b3464f907b294541c71382f32ac581bb45650aacd3f"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/issues/issue72_test.py",
+        "path_type": "hardlink",
+        "sha256": "07d0b477974af08bbec121ea849dac44324854fb731161e8253d383e5a7dc89b",
+        "size_in_bytes": 1481,
+        "sha256_in_prefix": "07d0b477974af08bbec121ea849dac44324854fb731161e8253d383e5a7dc89b"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/match.py",
+        "path_type": "hardlink",
+        "sha256": "f52eaaba07c50ae6944824ca0b82c633c6cf03165c359fae2b4aeca00bedbc60",
+        "size_in_bytes": 882,
+        "sha256_in_prefix": "f52eaaba07c50ae6944824ca0b82c633c6cf03165c359fae2b4aeca00bedbc60"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/optimality/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2580056ab4cf30946c30a870995474f5f20ddefe701665ed27df672316b286b7",
+        "size_in_bytes": 768,
+        "sha256_in_prefix": "2580056ab4cf30946c30a870995474f5f20ddefe701665ed27df672316b286b7"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/optimality/optimality_test.py",
+        "path_type": "hardlink",
+        "sha256": "8ed6c938fddfd87315cd0d2514039b322fa997ea7ce7c5e2e009666cca5f5a6b",
+        "size_in_bytes": 2491,
+        "sha256_in_prefix": "8ed6c938fddfd87315cd0d2514039b322fa997ea7ce7c5e2e009666cca5f5a6b"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/optimality/optimality_test_matrix.py",
+        "path_type": "hardlink",
+        "sha256": "f43a9094d054ecbe1faa317de3137063804523ef4a2ec8adda2329c35d9fa1cf",
+        "size_in_bytes": 5173,
+        "sha256_in_prefix": "f43a9094d054ecbe1faa317de3137063804523ef4a2ec8adda2329c35d9fa1cf"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/pprint.py",
+        "path_type": "hardlink",
+        "sha256": "f13601e0c399a9b00552af36ade00d5f3758a6a2ecbabe6f1f4a2c70a2628db0",
+        "size_in_bytes": 16790,
+        "sha256_in_prefix": "f13601e0c399a9b00552af36ade00d5f3758a6a2ecbabe6f1f4a2c70a2628db0"
+      },
+      {
+        "_path": "etc/conda/test-files/intervaltree/1/test/progress_bar.py",
+        "path_type": "hardlink",
+        "sha256": "4631940e6465e322f69be08e386ffe48eadcfaaa9168bee2037b7100ba644ca8",
+        "size_in_bytes": 13152,
+        "sha256_in_prefix": "4631940e6465e322f69be08e386ffe48eadcfaaa9168bee2037b7100ba644ca8"
+      },
+      {
+        "_path": "site-packages/intervaltree/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "60ecc9dc39ac442e3c4c67b309607b5bf09fd296f587bfae7a198de24dbc736c",
+        "size_in_bytes": 846,
+        "sha256_in_prefix": "60ecc9dc39ac442e3c4c67b309607b5bf09fd296f587bfae7a198de24dbc736c"
+      },
+      {
+        "_path": "site-packages/intervaltree/interval.py",
+        "path_type": "hardlink",
+        "sha256": "b91c8f378b66a7916ebd555df0eafa88ea225759d8a8ac2bd4256f80c2c02083",
+        "size_in_bytes": 10230,
+        "sha256_in_prefix": "b91c8f378b66a7916ebd555df0eafa88ea225759d8a8ac2bd4256f80c2c02083"
+      },
+      {
+        "_path": "site-packages/intervaltree/intervaltree.py",
+        "path_type": "hardlink",
+        "sha256": "e9e81044e52ebc4022f33496416bfd11dcec479e527c85af994883ee8333da7b",
+        "size_in_bytes": 41550,
+        "sha256_in_prefix": "e9e81044e52ebc4022f33496416bfd11dcec479e527c85af994883ee8333da7b"
+      },
+      {
+        "_path": "site-packages/intervaltree/node.py",
+        "path_type": "hardlink",
+        "sha256": "4c50417da85afc269715a921feb6656570a9820f3b7ad00d31d80afbc0d1a5d9",
+        "size_in_bytes": 21024,
+        "sha256_in_prefix": "4c50417da85afc269715a921feb6656570a9820f3b7ad00d31d80afbc0d1a5d9"
+      },
+      {
+        "_path": "site-packages/intervaltree-3.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "size_in_bytes": 6,
+        "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc"
+      },
+      {
+        "_path": "site-packages/intervaltree-3.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0d7409f7283135a8c1bf15236e15385793533131c9e83a8ad3e45e46f3bbe974",
+        "size_in_bytes": 12983,
+        "sha256_in_prefix": "0d7409f7283135a8c1bf15236e15385793533131c9e83a8ad3e45e46f3bbe974"
+      },
+      {
+        "_path": "site-packages/intervaltree-3.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f39c4b767dd9640d5ccdd593944f44637cf7b1bdb4fb14fcc5fa396a458d0eb8",
+        "size_in_bytes": 1163,
+        "sha256_in_prefix": "f39c4b767dd9640d5ccdd593944f44637cf7b1bdb4fb14fcc5fa396a458d0eb8"
+      },
+      {
+        "_path": "site-packages/intervaltree-3.2.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "site-packages/intervaltree-3.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0e75f1edc044c954d332f85e3c2bb3d8da30ebc2240dfc9a438c0d7dff069c49",
+        "size_in_bytes": 105,
+        "sha256_in_prefix": "0e75f1edc044c954d332f85e3c2bb3d8da30ebc2240dfc9a438c0d7dff069c49"
+      },
+      {
+        "_path": "site-packages/intervaltree-3.2.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "27609e3315f38d23be29e667965f7efd258b2f4f479e19b5fb156976e9df36bf",
+        "size_in_bytes": 123,
+        "sha256_in_prefix": "27609e3315f38d23be29e667965f7efd258b2f4f479e19b5fb156976e9df36bf"
+      },
+      {
+        "_path": "site-packages/intervaltree-3.2.1.dist-info/licenses/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358,
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/intervaltree/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 988
+      },
+      {
+        "_path": "lib/python3.14/site-packages/intervaltree/__pycache__/interval.cpython-314.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 12625
+      },
+      {
+        "_path": "lib/python3.14/site-packages/intervaltree/__pycache__/intervaltree.cpython-314.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 47176
+      },
+      {
+        "_path": "lib/python3.14/site-packages/intervaltree/__pycache__/node.cpython-314.pyc",
+        "path_type": "pyc_file",
+        "size_in_bytes": 21788
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/intervaltree-3.2.1-pyh5ded981_0",
+    "type": 1
+  },
+  "requested_specs": [
+    "intervaltree"
+  ]
+}

@@ -1,0 +1,742 @@
+HERV ID,HERV Name,Alias,Description,Type,Group
+ERV1_0001,ERVW-1,"ENV, ENVW, ERVWE1, HERV-7q, HERV-W-ENV, HERV7Q, HERVW, HERVWENV,Syncytin-1,Syncytin","Endogenous retrovirus group W member 1, envelope",ERV1,HERVW9
+ERV1_0002,HERV-W-gag,-,"Human endogenous retrovirus group W, group-specific antigen",ERV1,HERVW9
+ERV1_0003,MSRV-env,Env-ms,Multiple sclerosis associated retrovirus envelope,ERV1,HERVW9
+ERV1_0004,LTR2B,-,LTR2B (Long Terminal Repeat) for Harlequin endogenous retrovirus,ERV1,HERVERI
+ERV1_0005,ERVFRD-1,"ERVFRDE1, GLLL6191, HERV-FRD, HERV-W/FRD, UNQ6191, envFRD","Endogenous retrovirus group FRD member 1, envelope",ERV1,HERVFRDlike
+ERV1_0006,ERVH48-1,"ERV-Fb,C21orf105, NDUFV3-AS1, SUPYN","Endogenous retrovirus group 48 member 1, envelope",ERV1,HERVHF
+ERV1_0007,Syncytin-1-TM,-,"Endogenous retrovirus group W member 1, transmembrane region",ERV1,HERVW9
+ERV1_0008,LTR7Y,-,Long terminal repeat of an HERVH endogenous retrovirus,ERV1,HERVHF
+ERV1_0009,HERV-H,-,Human endogenous retrovirus group H,ERV1,HERVHF
+ERV1_0010,LTR12,-,LTR12 (Long Terminal Repeat) for HERV9 endogenous retrovirus,ERV1,HERVW9
+ERV1_0011,HERV-H-env59-GP3,-,An immunosuppressive peptide (ENV59-GP3) from a specific human endogenous retroviral envelope protein,ERV1,HERVHF
+ERV1_0012,HERV-H-int,-,Internal region of Human endogenous retrovirus group H (internal region),ERV1,HERVHF
+ERV1_0013,HERV1_I-int,-,"Internal region of an ERV1 endogenous retrovirus, HERV1_I subfamily",ERV1,HERVERI
+ERV1_0014,LTR76,-,LTR76 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVERI
+ERV1_0015,HERV9-int,-,"Internal region of an ERV1 endogenous retrovirus, HERV9 subfamily",ERV1,HERVW9
+ERV1_0016,LTR2,-,LTR2 (Long Terminal Repeat) for Harlequin endogenous retrovirus,ERV1,HERVERI
+ERV1_0017,LTR7,-,LTR7 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVHF
+ERV1_0018,MER57F,-,MER57F Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0019,HERV-H-env,-,"Human endogenous retrovirus group H, envelope",ERV1,HERVHF
+ERV1_0020,HERV-H-pol,-,"Human endogenous retrovirus group H, polymerase",ERV1,HERVHF
+ERV1_0021,HERV-H-env 60,-,-,ERV1,HERVHF
+ERV1_0022,HERV-W-pol,-,"Human endogenous retrovirus group W, polymerase",ERV1,HERVW9
+ERV1_0023,LTR1B1,-,LTR1B1 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0024,HERV-H17 peptide,-,"Human endogenous retrovirus group H17, peptide",ERV1,HERVHF
+ERV1_0025,LTR12D,-,LTR12D (Long Terminal Repeat) for HERV9-like endogenous retrovirus,ERV1,HERVW9
+ERV1_0026,LTR2752,-,LTR2752 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0027,LTR48B,-,LTR48B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0028,LTR70,-,LTR38 (Long Terminal Repeat) for a mosaic ERV1 endogenous retrovirus,ERV1,-
+ERV1_0029,LTR75_1,-,LTR75_1 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0030,MSRV-env-SU,-,Recombinant surface domain of multiple sclerosis associated retrovirus envelope,ERV1,HERVW9
+ERV1_0031,HERV15-int,-,"Internal region of ERV1 endogenous retrovirus, HERV15 subfamily",ERV1,HERVERI
+ERV1_0032,HERV-E,-,"ERV1 endogenous retrovirus, HERVE subfamily",ERV1,HERVERI
+ERV1_0033,HERV-W-env-TM,-,"Human endogenous retrovirus group W, envelope transmembrane region",ERV1,HERVW9
+ERV1_0034,LTR1E,-,LTR1E (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0035,MER61B,-,MER61B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0036,HERV3-int,-,"Internal region of an ERV1 endogenous retrovirus, HERV3 subfamily",ERV1,HERVERI
+ERV1_0037,HERV9NC-int,-,"Internal region of an ERV1 endogenous retrovirus, HERV9NC subfamily",ERV1,HERVW9
+ERV1_0038,HERV-W-env-SU 248-262,-,"Human endogenous retrovirus group W, surface unit region of the envelope protein, NSQCIRWVTPPTQIV",ERV1,HERVW9
+ERV1_0039,HERV-W-env-SU 93-108,-,"Human endogenous retrovirus group W, surface unit region of the envelope protein, NPSCPGGLGVTVCWTY",ERV1,HERVW9
+ERV1_0040,MER57-int,MER57I,"Internal region of ERV1 endogenous retrovirus, MER57-int subfamily",ERV1,MER50like
+ERV1_0041,MER66C,-,MER66C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0042,ERVWE1 promoter,-,Endogenous retrovirus group W member 1 promoter,ERV1,HERVW9
+ERV1_0043,HERVS71-int,-,"Internal region of ERV1 endogenous retrovirus, HERVS71 subfamily  (internal region)",ERV1,MLLV
+ERV1_0044,HERV-W,-,Human endogenous retrovirus group W,ERV1,HERVW9
+ERV1_0045,HUERS-P3-int,-,"Internal region of ERV1 endogenous retrovirus, HUERS-P3 subfamily",ERV1,HUERSP
+ERV1_0046,LTR06,-,LTR06 (Long Terminal Repeat) for an ERV1-type endogenous retrovirus,ERV1,-
+ERV1_0047,LTR10B2,-,LTR10B2 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVERI
+ERV1_0048,LTR12C,-,LTR12C (Long Terminal Repeat) for HERV9 endogenous retrovirus,ERV1,HERVW9
+ERV1_0049,LTR2C,HERV-E LTR2C,LTR2C (Long Terminal Repeat) for Harlequin endogenous retrovirus,ERV1,HERVERI
+ERV1_0050,LTR45C,-,LTR45C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0051,LTR72B,-,LTR72B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0052,MER51-int,MER51I,"Internal region of ERV1 endogenous retrovirus, MER51-int subfamily",ERV1,HERVFRDlike
+ERV1_0053,MER57A1,-,MER57A1 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0054,PABL_B,-,PABL_B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0055,HERV1_LTRc,-,LTRc (Long Terminal Repeat) of endogenous retrovirus HERV1,ERV1,HERVERI
+ERV1_0056,HERV17-int,-,"Internal region of ERV1 endogenous retrovirus, HERV17 subfamily",ERV1,HERVW9
+ERV1_0057,HERV-Fc1-int,-,"Internal region of endogenous retrovirus, HERV-Fc1 subfamily",ERV1,HERVHF
+ERV1_0058,HERV-H-env-SU 229-241,-,"Human endogenous retrovirus group H, surface unit region of the envelope protein, LGRHLPCISLHPW",ERV1,HERVHF
+ERV1_0059,HERVI-int,-,"Internal region of ERV1 endogenous retrovirus, HERVI subfamily",ERV1,HERVERI
+ERV1_0060,HERVIP10B3-int,-,"Internal region of an ERV1 endogenous retrovirus, HERVIP10B3 subfamily",ERV1,HERVIPADP
+ERV1_0061,HERV-P-env,-,"Human endogenous retrovirus group P, envelope",ERV1,HERVP
+ERV1_0062,LTR10B1,-,LTR10B1 (Long Terminal Repeat) for HERVI endogenous retrovirus,ERV1,HERVERI
+ERV1_0063,LTR12_,-,LTR12_ (Long Terminal Repeat) for HERV9 endogenous retrovirus,ERV1,HERVW9
+ERV1_0064,LTR12B,-,LTR12B (Long Terminal Repeat) for HERV9 endogenous retrovirus,ERV1,HERVW9
+ERV1_0065,LTR26,-,LTR26 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0066,LTR36,-,LTR36 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0067,LTR4,-,LTR4 (Long Terminal Repeat) for HERV3 endogenous retrovirus,ERV1,HERVERI
+ERV1_0068,LTR43-int,LTR43_I,"Internal region of ERV1 endogenous retrovirus, LTR43-int subfamily",ERV1,HEPSI
+ERV1_0069,LTR44,-,LTR44 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0070,LTR65,-,LTR65 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0071,LTR77,-,LTR77 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0072,MER101-int,MER101_I,"Internal region of ERV1 endogenous retrovirus, MER101-int subfamily",ERV1,HEPSI
+ERV1_0073,MER31B,-,MER31B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0074,MER39,-,MER39 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0075,MER4B-int,-,"Internal region of ERV1 endogenous retrovirus, MER4B-int subfamily",ERV1,HEPSI
+ERV1_0076,MER4CL34,-,MER4CL34 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0077,MER51C,-,MER51C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0078,MER52-int,MER52AI,"Internal region of ERV1 endogenous retrovirus, MER52-int subfamily",ERV1,HUERSP
+ERV1_0079,MER57C1,-,MER57C1 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0080,MER57E2,-,MER57E2 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0081,MER57E3,-,MER57E3 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0082,MER67B,-,MER67B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0083,MER72,-,MER72 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVHF
+ERV1_0084,ERV24_Prim-int,-,"Internal region of ERV1 retrotransposon, ERV24_Prim subfamily",ERV1,HEPSI
+ERV1_0085,HERV30-int,-,"Internal region of ERV1 endogenous retrovirus, HERV30 subfamily",ERV1,HERVW9
+ERV1_0086,HERVE_a-int,-,"Internal region of an ERV1 endogenous retrovirus, HERVE_a subfamily",ERV1,HERVERI
+ERV1_0087,HERV-E-pol,-,Human endogenous retroviruses E polymerase,ERV1,HERVERI
+ERV1_0088,HERV-Fc1_LTR1,-,LTR1 (Long Terminal Repeat) for endgenous retrovirus HERV-Fc1,ERV1,HERVHF
+ERV1_0089,HERV-Fc1_LTR2,-,"LTR (Long Terminal Repeat) of endogenous retrovirus, HERV-Fc1 subfamily",ERV1,HERVHF
+ERV1_0090,HERVFH19-int,HERVFH19I,"Internal region of ERV1 endogenous retrovirus, HERVFH19 subfamily",ERV1,HERVHF
+ERV1_0091,HERV-H/F-gag,ERVH-3-gag,"Endogenous retrovirus group H member 3, group-specific antigen",ERV1,HERVHF
+ERV1_0092,HERV-V1-env,"ERVV-1, ENVV1","Endogenous retrovirus group V member 1, envelope",ERV1,MER50like
+ERV1_0093,HERV-W-env-SU 129-143,-,"Human endogenous retrovirus group W, surface unit region of the envelope protein, VKEVISQLTRVRHGT",ERV1,HERVW9
+ERV1_0094,LTR109A2,-,LTR109A2_Mam (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0095,LTR10B,-,LTR10B (Long Terminal Repeat) for HERVI endogenous retrovirus,ERV1,HERVERI
+ERV1_0096,LTR1A2,-,LTR1A2 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0097,LTR23,-,LTR23 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0098,LTR25,-,LTR25 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0099,LTR35,-,LTR35 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0100,LTR38,-,LTR38 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0101,LTR38B,-,LTR38B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0102,LTR46-int,-,"Internal region of ERV1 endogenous retrovirus, LTR46-int subfamily",ERV1,HERVHF
+ERV1_0103,LTR48,-,LTR48 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0104,LTR49-int,HERV49I,Internal sequence of primate retrovirus-like HERV49I,ERV1,-
+ERV1_0105,LTR54,-,LTR54 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0106,LTR54B,-,LTR54B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0107,LTR59,-,LTR59 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0108,LTR71B,-,LTR71B (Long Terminal Repeat) for HERVP71A endogenous retrovirus,ERV1,HERVIPADP
+ERV1_0109,LTR8,-,LTR8 (Long Terminal Repeat) for HUERS-P3 endogenous retrovirus,ERV1,HUERSP
+ERV1_0110,MER34C,-,MER34C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0111,MER51D,-,MER51D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0112,MER52C,-,MER52C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0113,MER52D,-,MER52D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0114,MER57A-int,MER57A_I,"Internal region of ERV1 endogenous retrovirus, MER57A-int subfamily",ERV1,MER50like
+ERV1_0115,MER57D,-,MER57D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0116,MER61C,-,MER61C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0117,MER61E,-,MER61E Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0118,MER84-int,MER84I,"Internal region of ERV1 endogenous retrovirus, MER84-int subfamily",ERV1,MER50like
+ERV1_0119,MER87,-,MER87 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0120,MER87B,-,MER87B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0121,MER92B,-,MER92B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0122,PABL_A,-,Long Terminal Repeat for PABL_A endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0123,PABL_A-int,PABL_AI,"Internal region of ERV1 endogenous retrovirus, PABL_A-int subfamily",ERV1,HERVFRDlike
+ERV1_0124,Harlequin-int,-,"Internal region of ERV1 endogenous retrovirus, Harlequin subfamily",ERV1,HERVERI
+ERV1_0125,HERV1_LTRd,-,LTRd (Long Terminal Repeat) of endogenous retrovirus HERV1,ERV1,HERVERI
+ERV1_0126,HERV35I-int,-,"Internal region of an ERV1 endogenous retrovirus, HERV35I subfamily",ERV1,HERVW9
+ERV1_0127,HERV4_I-int,-,"Internal region of an ERV1 endogenous retrovirus, HERV4 subfamily",ERV1,HERVFRDlike
+ERV1_0128,HERV9N-int,-,"Internal region of an ERV1 endogenous retrovirus, HERV9N subfamily",ERV1,HERVW9
+ERV1_0129,HERV-E-env,-,Human endogenous retroviruses E envelope,ERV1,HERVERI
+ERV1_0130,HERV-H(2000045_h_pol),-,"Human endogenous retrovirus group H, polymerase(2000045_h_pol)",ERV1,HERVHF
+ERV1_0131,HERV-H3-env,-,"Human endogenous retrovirus group H member 3, envelope",ERV1,HERVHF
+ERV1_0132,HERVH48-int,HERVH48I,"Internal region of ERV1 endogenous retrovirus, HERVH48 subfamily",ERV1,HERVHF
+ERV1_0133,HERV-H-env-SU,-,"Human endogenous retrovirus group H, surface unit region of the envelope protein",ERV1,HERVHF
+ERV1_0134,HERV-I,-,"ERV1 endogenous retrovirus, HERVI subfamily",ERV1,HERVERI
+ERV1_0135,HERVP71A-int,HERVP71A_I,"Internal region of ERV1 endogenous retrovirus, HERVP71A subfamily",ERV1,HERVIPADP
+ERV1_0136,HERV-V2-env,"ERVV-2, ENVV2, HERV-V2","Endogenous retrovirus group V member 2, envelope",ERV1,MER50like
+ERV1_0137,HERV-W-gag 11q13,-,"Human endogenous retrovirus group W, group-specific antigen, in 11q13",ERV1,HERVW9
+ERV1_0138,HUERS-P1-int,-,"Internal region of ERV1 endogenous retrovirus, HUERS-P1 subfamily",ERV1,HUERSP
+ERV1_0139,HUERS-P2-int,-,"Internal region of ERV1 endogenous retrovirus, HUERS-P2 subfamily",ERV1,HUERSP
+ERV1_0140,LTR10A,-,LTR10A (Long Terminal Repeat) for an ERV1-type endogenous retrovirus,ERV1,HERVIPADP
+ERV1_0141,LTR12E,-,LTR12E (Long Terminal Repeat) for HERV9-like endogenous retrovirus,ERV1,HERVW9
+ERV1_0142,LTR19B,-,LTR19B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0143,LTR1B0,-,LTR1B0 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0144,LTR1C,-,LTR1C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0145,LTR1C1,-,LTR1C1 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0146,LTR26B,-,LTR26B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0147,LTR26D,-,LTR26D (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0148,LTR28,-,LTR28 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0149,LTR37A,-,LTR37A (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0150,LTR38A1,-,LTR38A1 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0151,LTR38C,-,LTR38C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0152,LTR45,-,LTR45 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0153,LTR51,-,LTR51 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0154,LTR68,-,LTR68 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0155,LTR6B,-,LTR6B (Long Terminal Repeat) for HERVS71 endogenous retrovirus,ERV1,MLLV
+ERV1_0156,LTR71A,-,LTR71A (Long Terminal Repeat) for HERVP71A endogenous retrovirus,ERV1,HERVIPADP
+ERV1_0157,LTR78,-,LTR78 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0158,LTR7B,-,Long terminal repeat of an HERVH endogenous retrovirus,ERV1,HERVHF
+ERV1_0159,LTR9A1,-,LTR9A1 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0160,LTR9B,-,LTR9B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0161,MER101,-,MER101 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0162,MER101B,-,MER101B putative Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0163,MER110,-,MER110 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0164,MER34A,-,MER34A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0165,MER34A1,-,MER34A1 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0166,MER34C_,-,MER34C_ Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0167,MER41B,-,MER41B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0168,MER41C,-,MER41C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0169,MER41E,-,MER41E Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0170,MER41-int,MER41I,"Internal region of ERV1 endogenous retrovirus, MER41-int subfamily",ERV1,HERVW9
+ERV1_0171,MER4A,-,MER4A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0172,MER4A1,-,MER4A1 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0173,MER4D1,-,MER4D1 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0174,MER50B,-,MER50B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0175,MER57E1,-,MER57E1 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0176,MER65B,-,MER65B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0177,MER65D,-,MER65D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0178,MER65-int,MER65I,"Internal region of ERV1 endogenous retrovirus, MER65-int subfamily",ERV1,HEPSI
+ERV1_0179,MER66A,-,MER66A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0180,MER66D,-,MER66D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0181,MER66-int,MER66_I,"Internal region of ERV1 endogenous retrovirus, MER66-int subfamily",ERV1,HERVFRDlike
+ERV1_0182,MER67A,-,MER67A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0183,MER67D,-,MER67D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0184,MER84,-,MER84 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0185,MER89,-,MER89 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0186,MER92C,-,MER92C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0187,MER92-int,-,"Internal region of ERV1 endogenous retrovirus, MER92-int subfamily",ERV1,-
+ERV1_0188,MER95,-,MER95 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0189,PRIMA41-int,-,"Internal region of PRIMA41 endogenous retrovirus, PRIMA41-int subfamily",ERV1,HERVFRDlike
+ERV1_0190,PRIMAX-int,-,"Internal region of PRIMAX endogenous retrovirus, PRIMAX-int subfamily",ERV1,HEPSI
+ERV1_0191,PrimLTR79,-,PrimLTR79 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0192,ERV24B_Prim-int,-,"Internal region of ERV1 retrotransposon, ERV24B_Prim subfamily",ERV1,HEPSI
+ERV1_0193,ERV-9,-,Endogenous retrovirus group 9 member 1,ERV1,HERVW9
+ERV1_0194,HERV1_LTRa,-,LTRa (Long Terminal Repeat) of endogenous retrovirus HERV1,ERV1,HERVERI
+ERV1_0195,HERV9,-,"ERV1 endogenous retrovirus, HERV9 subfamily",ERV1,HERVW9
+ERV1_0196,HERV-E clone4-1-gag,-,Human endogenous retroviruses E clone 4-1,ERV1,HERVERI
+ERV1_0197,HERV-E-gag,-,Human endogenous retroviruses E group-specific antigen,ERV1,HERVERI
+ERV1_0198,HERVE-int,-,"Internal region of an ERV1 endogenous retrovirus, HERVE subfamily",ERV1,HERVERI
+ERV1_0199,HERV-Fc1-gag,-,Endgenous retrovirus HERV-Fc1 polymerase,ERV1,HERVHF
+ERV1_0200,HERV-H(1300360_h_env),-,"Human endogenous retrovirus group H, envelope(1300360_h_env)",ERV1,HERVHF
+ERV1_0201,HERV-H(1300360_h_gag),-,"Human endogenous retrovirus group H, group-specific antigen",ERV1,HERVHF
+ERV1_0202,HERV-H(1400035_h_gag),-,"Human endogenous retrovirus group H, group-specific antigen(1400035_h_gag)",ERV1,HERVHF
+ERV1_0203,HERV-H(2000045_h_gag),-,"Human endogenous retrovirus group H, group-specific antigen(2000045_h_gag)",ERV1,HERVHF
+ERV1_0204,HERV-H(X00041_h_gag),-,"Human endogenous retrovirus group H, group-specific antigen(X00041_h_gag)",ERV1,HERVHF
+ERV1_0205,HERVH48,-,"ERV1 endogenous retrovirus, HERVH48 subfamily",ERV1,HERVHF
+ERV1_0206,HERV-Hb,-,-,ERV1,HERVHF
+ERV1_0207,HERV-H-env peptide no.62,-,-,ERV1,HERVHF
+ERV1_0208,HERV-H-env-TM,-,"Human endogenous retrovirus group H, transmembrane region",ERV1,HERVHF
+ERV1_0209,HERV-H-gag nucleocapsid,-,"Human endogenous retrovirus group H, group-specific antigen nucleocapsid",ERV1,HERVHF
+ERV1_0210,HERVIP10FH,-,"ERV1 endogenous retrovirus, HERVIP10FH subfamily",ERV1,HERVIPADP
+ERV1_0211,HERVIP10FH-int,-,"Internal region of ERV1 endogenous retrovirus, HERVIP10FH subfamily",ERV1,HERVIPADP
+ERV1_0212,HERVIP10F-int,-,"Internal region of ERV1 endogenous retrovirus, HERVIP10F subfamily (internal region)",ERV1,HERVIPADP
+ERV1_0213,HUERS-P3b-int,-,"Internal region of ERV1 endogenous retrovirus, HUERS-P3b subfamily",ERV1,HUERSP
+ERV1_0214,LOR1a,LOR1a_LTR,LOR1a - LTR (Long Terminal Repeat) of ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0215,LOR1b,LOR1b_LTR,LOR1b - LTR (Long Terminal Repeat) of ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0216,LOR1-int,LOR1I,"Internal region of ERV1 endogenous retrovirus, LOR1-int subfamily",ERV1,HEPSI
+ERV1_0217,LTR1,-,LTR1 (Long Terminal Repeat) for human endogenous retrovirus HUERS-P2,ERV1,HUERSP
+ERV1_0218,LTR103_Mam,-,LTR103_Mam (Long Terminal Repeat) likely for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0219,LTR10C,-,LTR10C (Long Terminal Repeat) for HERVI endogenous retrovirus,ERV1,-
+ERV1_0220,LTR10D,-,LTR10D (Long Terminal Repeat) for HERVI endogenous retrovirus,ERV1,-
+ERV1_0221,LTR10G,-,LTR10G (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0222,LTR12F,-,LTR12F (Long Terminal Repeat) for an ERV1-type endogenous retrovirus,ERV1,HERVW9
+ERV1_0223,LTR17,-,LTR17 (Long Terminal Repeat) for HERV17 endogenous retrovirus,ERV1,HERVW9
+ERV1_0224,LTR19C,-,LTR19C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0225,LTR19-int,-,"Internal region of ERV1 endogenous retrovirus, LTR19-int subfamily",ERV1,HERVHF
+ERV1_0226,LTR1B,-,LTR1B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0227,LTR21B,-,Long terminal repeat of endogenous retrovirus HERVH22,ERV1,HERVHF
+ERV1_0228,LTR21C,-,LTR21C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV1,HERVHF
+ERV1_0229,LTR23-int,-,"Internal region of ERV1 endogenous retrovirus, LTR23-int subfamily",ERV1,-
+ERV1_0230,LTR24,-,LTR24 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0231,LTR24C,-,LTR24C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0232,LTR25-int,-,"Internal region of ERV1 endogenous retrovirus, LTR25-int subfamily",ERV1,HUERSP
+ERV1_0233,LTR26E,-,LTR26E (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0234,LTR27,-,LTR27 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0235,LTR27E,-,LTR27E (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0236,LTR30,-,LTR30 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0237,LTR34,-,LTR34 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0238,LTR35A,-,LTR35A (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVERI
+ERV1_0239,LTR35B,-,LTR35B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0240,LTR37B,-,LTR37B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0241,LTR37-int,-,"Non-autonomous internal region of ERV1, LTR37-int subfamily",ERV1,HEPSI
+ERV1_0242,LTR38-int,-,"Internal fragment of ERV1 endogenous retrovirus, LTR38-int subfamily",ERV1,HEPSI
+ERV1_0243,LTR39-int,-,"Internal region of ERV1 endogenous retrovirus, LTR39-int subfamily",ERV1,HERVFRDlike
+ERV1_0244,LTR58,-,LTR58 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0245,LTR60,-,LTR60 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0246,LTR6A,-,LTR6A (Long Terminal Repeat) for HERVS71 endogenous retrovirus,ERV1,MLLV
+ERV1_0247,LTR72,-,LTR72 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0248,LTR78B,-,LTR78B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0249,LTR8B,-,LTR8B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0250,LTR9,-,LTR9 (Long Terminal Repeat) for HUERS-P3 endogenous retrovirus,ERV1,HUERSP
+ERV1_0251,LTR9C,-,LTR9C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0252,LTR9D,-,LTR9D (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0253,MER110A,-,MER110A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0254,MER110-int,MER110I,"Internal region of ERV1 endogenous retrovirus, MER110-int subfamily",ERV1,-
+ERV1_0255,MER31-int,MER31_I,"Internal region of ERV1 endogenous retrovirus, MER31-int subfamily",ERV1,HEPSI
+ERV1_0256,MER34,-,MER34 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0257,MER34B,-,MER34B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0258,MER34-int,-,"Internal region of ERV1 endogenous retrovirus, MER34-int subfamily",ERV1,HEPSI
+ERV1_0259,MER39B,-,MER39B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0260,MER41G,-,MER41G Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0261,MER48,-,MER48 Long Terminal Repeat for HERVH48 endogenous retrovirus,ERV1,HERVHF
+ERV1_0262,MER4B,-,MER4B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0263,MER4D,-,MER4D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0264,MER4E,-,MER4E Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0265,MER4-int,MER4I,"Internal region of ERV1 endogenous retrovirus, MER4-int subfamily",ERV1,HEPSI
+ERV1_0266,MER50,-,MER50 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0267,MER51B,-,MER51B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0268,MER52A,-,MER52A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0269,MER61,-,-,ERV1,HEPSI
+ERV1_0270,MER61D,-,MER61D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0271,MER61F,-,MER61F Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0272,MER65C,-,MER65C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0273,MER66B,-,MER66B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0274,MER67C,-,MER67C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0275,MER83A-int,MER83AI,"Internal region of ERV1 endogenous retrovirus, MER83A-int subfamily",ERV1,HUERSP
+ERV1_0276,MER83B,-,MER83B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0277,MER83B-int,MER83BI,"Internal region of ERV1 endogenous retrovirus, MER83B-int subfamily",ERV1,HUERSP
+ERV1_0278,MER83C,-,MER83C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0279,MER89-int,MER89I,"Internal region of ERV1 endogenous retrovirus, MER89-int subfamily",ERV1,HEPSI
+ERV1_0280,MER92A,-,MER92A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0281,MER92D,-,MER92D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0282,PRIMA4_LTR,-,PRIMA4_LTR (Long Terminal Repeat) for PRIMA4 endogenous retrovirus,ERV1,HEPSI
+ERV1_0283,ERV-9 ECTSU,-,Endogenous retrovirus 9 envelope C-terminal surface glycoprotein,ERV1,HERVW9
+ERV1_0284,ERV9 Seq63,-,Human endogenous retrovirus pHE.1 (ERV9),ERV1,HERVW9
+ERV1_0285,ERV-9-pol,-,"Endogenous retrovirus group 9 member 1, polymerase",ERV1,HERVW9
+ERV1_0286,HEMO,MER34-env,-,ERV1,-
+ERV1_0287,HERV peptides 4.1,-,"A multicopy type C HERV termed also HERV-E, QNRLALDYLLAAEGGVCG",ERV1,HERVERI
+ERV1_0288,HERV peptides P15E,-,"A synthetic peptide from the P15e the transmembrane envelope protein present in many HERV, LQNRRGLDLLFLKEGGLC",ERV1,HERVERI
+ERV1_0289,HERV1_LTRe,-,LTRe (Long Terminal Repeat) of endogenous retrovirus HERV1,ERV1,HERVERI
+ERV1_0290,HERV19I,-,-,ERV1,HERVHF
+ERV1_0291,HERV3,-,"ERV1 endogenous retrovirus, HERV3 subfamily",ERV1,HERVERI
+ERV1_0292,HERV4,-,"ERV1 endogenous retrovirus, HERV4 subfamily",ERV1,HERVFRDlike
+ERV1_0293,HERV-E4-1-pol,-,Human endogenous retroviruses E4 polymerase,ERV1,HERVERI
+ERV1_0294,HERV-Fb1,-,Human endogenous retrovirus group Fb member 1,ERV1,HERVHF
+ERV1_0295,HERVFc,-,Endgenous retrovirus HERV-Fc,ERV1,HERVHF
+ERV1_0296,HERV-Fc1-env,-,Endgenous retrovirus HERV-Fc1 envelope,ERV1,HERVHF
+ERV1_0297,HERV-Fc2-env,-,Endgenous retrovirus HERV-Fc2 envelope,ERV1,HERVHF
+ERV1_0298,HERV-Fc2-int,-,"Internal region of endogenous retrovirus, HERV-Fc2 subfamily",ERV1,HERVHF
+ERV1_0299,HERVFH21-int,HERVFH21I,"Internal region of ERV1 endogenous retrovirus, HERVFH21 subfamily",ERV1,HERVHF
+ERV1_0300,HERV-FRD-pol,-,Endogenous retrovirus group FRD member 1,ERV1,HERVFRDlike
+ERV1_0301,HERV-H(1300360_h_pol),-,"Human endogenous retrovirus group H, polymerase(1300360_h_pol)",ERV1,HERVHF
+ERV1_0302,HERV-H(500502_h_L3U3),-,-,ERV1,HERVHF
+ERV1_0303,HERV-H3-env59,-,-,ERV1,HERVHF
+ERV1_0304,HERV-H7/F,XA34,-,ERV1,HERVHF
+ERV1_0305,HERV-Ha,-,-,ERV1,HERVHF
+ERV1_0306,HERV-H-env 62,-,-,ERV1,HERVHF
+ERV1_0307,HERV-Rb-env,-,"Human endogenous retrovirus group Rb, envelope",ERV1,-
+ERV1_0308,HERV-T,-,Human endogenous retrovirus group T,ERV1,HERVT
+ERV1_0309,HERV-T-env,"envT, ERVS71-1","Human endogenous retrovirus group T, envelope",ERV1,HERVT
+ERV1_0310,HERV-V1-gag,-,"Human endogenous retrovirus group V member 1, group-specific antigen",ERV1,MER50like
+ERV1_0311,HERV-W2-env,-,"Human endogenous retrovirus group W member 2, envelope",ERV1,HERVW9
+ERV1_0312,HERV-W3-env,-,"Human endogenous retrovirus group W member 3, envelope",ERV1,HERVW9
+ERV1_0313,HERV-Wdeg,-,"A primer pair, which targeted sequences common to both MSRV and ERVWE1 env ",ERV1,HERVW9
+ERV1_0314,HERV-W-env-SU 109-123,-,"Human endogenous retrovirus group K, surface unit region of the envelope protein, FTQTGMSDGGGVQDQ",ERV1,HERVW9
+ERV1_0315,HERV-W-env-SU 120-143,-,"Human endogenous retrovirus group W, surface unit region of the envelope protein",ERV1,HERVW9
+ERV1_0316,HERV-W-env-SU 161-180,-,"Human endogenous retrovirus group W, surface unit region of the envelope protein",ERV1,HERVW9
+ERV1_0317,HERV-W-gag 3q26,-,"Human endogenous retrovirus group W, group-specific antigen, in 3q26",ERV1,HERVW9
+ERV1_0318,HERV-W-gag 5p13,-,"Human endogenous retrovirus group W, group-specific antigen, in 5p13",ERV1,HERVW9
+ERV1_0319,LTR103b_Mam,-,LTR103b_Mam (Long Terminal Repeat) likely for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0320,LTR10E,-,LTR10E (Long Terminal Repeat) for HERVI endogenous retrovirus,ERV1,-
+ERV1_0321,LTR15,-,LTR15 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVERI
+ERV1_0322,LTR19A,-,Putative long terminal repeat of endogenous retrovirus,ERV1,HERVHF
+ERV1_0323,LTR1A1,-,LTR1A1 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0324,LTR1C3,-,LTR1C3 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0325,LTR1D,-,LTR1D (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0326,LTR1D1,-,LTR1D1 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0327,LTR1F,-,LTR1F (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0328,LTR21A,-,LTR21A (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVHF
+ERV1_0329,LTR24B,-,LTR24B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0330,LTR26C,-,LTR26C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0331,LTR27B,-,LTR27B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0332,LTR27D,-,LTR27D (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0333,LTR28B,-,-,ERV1,HUERSP
+ERV1_0334,LTR28C,-,LTR28C (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0335,LTR29,-,LTR29 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0336,LTR31,-,LTR31 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0337,LTR39,-,LTR39 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0338,LTR43,-,LTR43 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0339,LTR43B,-,LTR43B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0340,LTR45B,-,LTR45B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0341,LTR46,-,LTR46 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVHF
+ERV1_0342,LTR56,-,LTR56 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0343,LTR60B,-,LTR60B (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0344,LTR61,-,LTR61 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HERVERI
+ERV1_0345,LTR64,-,LTR64 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0346,LTR73,-,LTR73 (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0347,LTR7A,-,Long terminal repeat of an HERVH endogenous retrovirus,ERV1,HERVHF
+ERV1_0348,LTR7C,-,Long terminal repeat of an HERVH endogenous retrovirus,ERV1,HERVHF
+ERV1_0349,LTR8A,-,LTR8A (Long Terminal Repeat) for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0350,MER21C_BT,-,-,ERV1,HEPSI
+ERV1_0351,MER31A,-,MER31A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0352,MER34B-int,MER34B_I,"Internal region of ERV1 endogenous retrovirus, MER34B-int subfamily",ERV1,HEPSI
+ERV1_0353,MER34D,-,MER34D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0354,MER41A,-,MER41A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0355,MER41D,-,MER41D Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVW9
+ERV1_0356,MER49,-,MER49 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0357,MER4A1_,-,MER4A1_ Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0358,MER4C,-,MER4C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0359,MER4D0,-,MER4D0 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0360,MER4E1,-,MER4E1 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HEPSI
+ERV1_0361,MER50C,-,MER50C Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0362,MER50-int,MER50I,"Internal region of ERV1 endogenous retrovirus, MER50-int subfamily",ERV1,MER50like
+ERV1_0363,MER51A,-,MER51A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0364,MER51E,-,MER51E Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HERVFRDlike
+ERV1_0365,MER57B2,-,MER57B2 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0366,MER57C2,-,MER57C2 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,MER50like
+ERV1_0367,MER61A,-,MER61A Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,HUERSP
+ERV1_0368,MER61I,MER61-int,"Internal region of ERV1 endogenous retrovirus, MER61-int subfamily",ERV1,HEPSI
+ERV1_0369,MER72B,-,MER72B Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0370,MER90,-,MER90 Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0371,MER90a,-,MER90a Long Terminal Repeat for ERV1 endogenous retrovirus,ERV1,-
+ERV1_0372,MSRV,-,Multiple sclerosis associated retrovirus,ERV1,HERVW9
+ERV1_0373,MSRV-env-SUG,-,The glycosylated form of recombinant surface domain of multiple sclerosis associated retrovirus envelope,ERV1,HERVW9
+ERV1_0374,MSRV-pol,-,Multiple sclerosis associated retrovirus pol gene,ERV1,HERVW9
+ERV1_0375,PABL_B-int,PABL_BI,"Internal region of ERV1 endogenous retrovirus, PABL_B-int subfamily",ERV1,HERVFRDlike
+ERV1_0376,PRIMA4,-,PRIMA4 endogenous retrovirus,ERV1,HEPSI
+ERV1_0377,PRIMA4-int,-,"Internal region of PRIMA4 endogenous retrovirus, PRIMA4-int subfamily",ERV1,HEPSI
+ERV1_0378,Syncytin-1-SU C-term,-,Syncytin-1 surface unit C-terminus,ERV1,HERVW9
+ERV1_0379,Syncytin-1-SU N-term,-,Syncytin-1 surface unit N-terminus,ERV1,HERVW9
+ERV1_0380,Syncytin-3,-,"Endogenous retrovirus group ERVP(b), envelope",ERV1,HERVFRDlike
+ERV2_0001,HERV-K-env,-,"Human endogenous retrovirus group K, envelope",ERV2,HERVK
+ERV2_0002,HERV-K,-,"ERVK endogenous retrovirus, HERVK subfamily",ERV2,HERVK
+ERV2_0003,HERV-K-rec,-,"Human endogenous retrovirus group K, recombinase",ERV2,HERVK
+ERV2_0004,HERV-K-gag,-,"Human endogenous retrovirus group K, group-specific antigen",ERV2,HERVK
+ERV2_0005,HERV-K-pol,-,"Human endogenous retrovirus group K, polymerase",ERV2,HERVK
+ERV2_0006,HERV-K-np9,-,Human endogenous retrovirus group K Np9 protein,ERV2,HERVK
+ERV2_0007,HML-2,-,Human MMTV-like (HML) supergroup of class II,ERV2,HML2
+ERV2_0008,HERV-K-env-SU 19-37,-,"Human endogenous retrovirus group K, surface unit region of the envelope protein 19-37",ERV2,HERVK
+ERV2_0009,LTR5B,-,LTR5B (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML2
+ERV2_0010,HERV-K-env-rec,-,"Human endogenous retrovirus group K, envelope and recombinase",ERV2,HERVK
+ERV2_0011,HERV-K-env-SU 109-126,-,"Human endogenous retrovirus group K, surface unit region of the envelope protein, RPKGKTCPKEIPKGSKNT",ERV2,HERVK
+ERV2_0012,HML-2-env,-,"Human MMTV-like (HML) supergroup of class II, envelope",ERV2,HML2
+ERV2_0013,HERVK11D-int,HERVK11DI,"Internal region of HERVK  endogenous retrovirus, HERVK11D subfamily",ERV2,HML7
+ERV2_0014,HERV-K-env-SU,-,"Human endogenous retrovirus group K, envelope surface unit region",ERV2,HERVK
+ERV2_0015,HERV-K108-AF074086-env,-,"Human endogenous retrovirus group K member 108, AF074086 envelope",ERV2,HERVK
+ERV2_0016,HERV-K-int,-,Internal region of Human endogenous retrovirus group K,ERV2,HERVK
+ERV2_0017,HERV-K10-gag,-,"Human endogenous retrovirus group K member 10, group-specific antigen",ERV2,HERVK
+ERV2_0018,MER9a1,-,MER9a1 Long Terminal Repeat for ERVK endogenous retrovirus,ERV2,HML3
+ERV2_0019,HERV-K10-pol,-,"Human endogenous retrovirus group K member 10, polymerase",ERV2,HERVK
+ERV2_0020,HERVK14C-int,-,"Internal region of ERVK endogenous retrovirus, HERVK14C subfamily",ERV2,HML9
+ERV2_0021,LTR5A,-,LTR5A (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML2
+ERV2_0022,MER9B,-,MER9B Long Terminal Repeat for HERVK9 endogenous retrovirus,ERV2,-
+ERV2_0023,HERV-K102,"K-10, K(C1b), K50a, ERVK-7,ERVK7,HERV-KIII, HERV-K(III)",Endogenous retrovirus group K member 7,ERV2,HERVK
+ERV2_0024,HERV-K108-env,"ERVK-6,ERVK6, HERV-K(C7), K-Rev, c-orf, cORF, envK2","Endogenous retrovirus group K member 6, envelope",ERV2,HERVK
+ERV2_0025,HERV-K111-env,-,"Human endogenous retrovirus K111, envelope",ERV2,HERVK
+ERV2_0026,HERVKC4-int,-,"Internal region of HERVK endogenous retrovirus, HERVKC4 subfamily",ERV2,HML10
+ERV2_0027,HERV-K-env-FL,-,"Human endogenous retrovirus group K, full length envelope",ERV2,HERVK
+ERV2_0028,HERV-K-env-TM,-,"Human endogenous retrovirus group K, transmembrane region",ERV2,HERVK
+ERV2_0029,LTR5,-,LTR5 (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML2
+ERV2_0030,LTR5_Hs,HERV-K LTR5_Hs,LTR5_Hs (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML2
+ERV2_0031,MER11B,-,MER11B Long Terminal Repeat for HERVK11 endogenous retrovirus,ERV2,HML8
+ERV2_0032,HERV-K119-env,-,"Human endogenous retrovirus K119, envelope",ERV2,HERVK
+ERV2_0033,HERVK11-int,-,"Internal region of HERVK endogenous retrovirus, HERVK11 subfamily",ERV2,HML8
+ERV2_0034,HERVK13-int,-,"Internal region of HERVK endogenous retrovirus, HERVK13 subfamily",ERV2,HML4
+ERV2_0035,HERVK3-int,HERVK3I,"Internal region of HERVK endogenous retrovirus, HERVK3 subfamily",ERV2,HML6
+ERV2_0036,LTR13A,-,LTR13A (Long Terminal Repeat) for HERVK13-like endogenous retrovirus,ERV2,HML4
+ERV2_0037,LTR22B2,-,LTR22B2 (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML5
+ERV2_0038,LTR22C,-,LTR22C (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML5
+ERV2_0039,LTR22C2,-,LTR22C2 (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML5
+ERV2_0040,LTR3,-,LTR3 (Long Terminal Repeat) for HERVK3 endogenous retrovirus,ERV2,HML6
+ERV2_0041,MER11C,-,MER11C Long Terminal Repeat for HERVK11 endogenous retrovirus,ERV2,HML8
+ERV2_0042,MER11D,-,MER11D Long Terminal Repeat for HERVK11 endogenous retrovirus,ERV2,HML7
+ERV2_0043,MER9a3,-,MER9a3 Long Terminal Repeat for ERVK endogenous retrovirus,ERV2,HML3
+ERV2_0044,HERV-K108-env-rec,-,"Human endogenous retrovirus group K member 6, envelope and recombinase",ERV2,HERVK
+ERV2_0045,HERV-K109-env-rec,-,"Human endogenous retrovirus group K member 32, envelope and recombinase",ERV2,HERVK
+ERV2_0046,HERVK14-int,-,"Internal region of HERVK endogenous retrovirus, HERVK14 subfamily",ERV2,HML1
+ERV2_0047,HERV-K17 provirus,-,"ERV1 endogenous retrovirus, HERV17 subfamily",ERV2,HERVK
+ERV2_0048,HERVK9-int,HERVK9I,"Internal region of ERVK endogenous retrovirus, HERVK9 subfamily",ERV2,HML3
+ERV2_0049,HERV-K-env-SU 20-38,-,"Human endogenous retrovirus group K, surface unit region, VWVPGPTDDRCPAKPEEEG",ERV2,HERVK
+ERV2_0050,HML-2-gag,-,"Human MMTV-like (HML) supergroup of class II, group-specific antigen",ERV2,HML2
+ERV2_0051,HML-2-pol,-,"Human MMTV-like (HML) supergroup of class II, polymerase",ERV2,HML2
+ERV2_0052,HML-3,-,Human MMTV-like (HML) supergroup of class III,ERV2,HML3
+ERV2_0053,LTR13,-,LTR13 (Long Terminal Repeat) for HERVK13 endogenous retrovirus,ERV2,HML4
+ERV2_0054,LTR13_,-,LTR13_ (Long Terminal Repeat) for HERVK13 endogenous retrovirus,ERV2,HML4
+ERV2_0055,LTR3B,-,LTR3B (Long Terminal Repeat) for HERVK3 endogenous retrovirus,ERV2,HML6
+ERV2_0056,MER11A,-,MER11A Long Terminal Repeat for HERVK11 endogenous retrovirus,ERV2,HML8
+ERV2_0057,ERV-K106,"K68, ERVK-3, K-12, K(C3)",Endogenous retrovirus group K member 3,ERV2,HERVK
+ERV2_0058,ERV-K110,"K(C1a), ERVK-18, K-21, K18",Endogenous retrovirus group K member 18,ERV2,HERVK
+ERV2_0059,ERV-K115,"K-7, ERVK-8",Endogenous retrovirus group K member 8,ERV2,HERVK
+ERV2_0060,ERVK3-1-env,-,"Endogenous retrovirus group K3 member 1, envelope",ERV2,HML6
+ERV2_0061,HERV-K pro,-,"Human endogenous retrovirus group K, pro gene",ERV2,HERVK
+ERV2_0062,HERV-K RT,-,Human endogenous retrovirus-K reverse transcriptase,ERV2,HERVK
+ERV2_0063,HERV-K(II)-env,"ERVK-5-env,ERVK5-env, HERV-K(II)-env, HERV-KII-env","Endogenous retrovirus group K member 5, envelope",ERV2,HERVK
+ERV2_0064,HERV-K10,-,Human endogenous retrovirus group K member 10,ERV2,HERVK
+ERV2_0065,HERV-K113,-,Human endogenous retrovirus K113,ERV2,HERVK
+ERV2_0066,HERVK22-int,-,"Internal region of ERVK endogenous retrovirus, HERVK22 subfamily",ERV2,HML5
+ERV2_0067,HML-2-gag1,-,"Human MMTV-like (HML) supergroup of class II, group-specific antigen 1",ERV2,HML2
+ERV2_0068,HML-2-gag-rec-CA,-,"Human endogenous retrovirus group K, group-specific antigen and recombinase capsid",ERV2,HML2
+ERV2_0069,HML-5,-,Human MMTV-like (HML) supergroup of class 5,ERV2,HML5
+ERV2_0070,LTR14A,-,LTR14A (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML1
+ERV2_0071,LTR3A,-,LTR3A (Long Terminal Repeat) for HERVK3 endogenous retrovirus,ERV2,HML6
+ERV2_0072,LTR3B_,-,LTR3B_ (Long Terminal Repeat) for HERVK3 endogenous retrovirus,ERV2,HML6
+ERV2_0073,ERVK13-1,-,Endogenous retrovirus group K13 member 1,ERV2,HML4
+ERV2_0074,ERVK-5 3q12.3,-,Endogenous retrovirus group K member 5 on 3q12.3,ERV2,HML2
+ERV2_0075,H22q-gag 22q11.23,-,A HML-2 locus group-specific antigen in chromosome 22q11.23,ERV2,HERVHF
+ERV2_0076,H22q-rec 22q11.23,-,A HML-2 locus recombinase in chromosome 22q11.23,ERV2,HERVHF
+ERV2_0077,HERV-K_22q11.23 5' LTR/gag,-,"Human endogenous retrovirus group K in 22q11.23, 5'Long Terminal Repeat/group-specific antigen",ERV2,HERVK
+ERV2_0078,HERV-K_22q11.23-env,-,"Human endogenous retrovirus group K in 22q11.23, envelope",ERV2,HERVK
+ERV2_0079,HERV-K10 peptide 17,-,"Human endogenous retrovirus group K member 10, GKTCPKEIPKGSKNTC",ERV2,HERVK
+ERV2_0080,HERV-K109-env,"ERVK-32, env, envK4","Endogenous retrovirus group K member 32, envelope",ERV2,HERVK
+ERV2_0081,HERV-K10-gag matrix peptide,-,RIGKELKQAGRKGNI,ERV2,HERVK
+ERV2_0082,HERV-K113-env,-,"Human endogenous retrovirus K113, envelope",ERV2,HERVK
+ERV2_0083,HERV-K113-env-rec,-,"Human endogenous retrovirus K113, envelope and recombinase",ERV2,HERVK
+ERV2_0084,HERV-K115-env,"ERVK-8,ERVK8, PR, Protease, Proteinase, envK6","Endogenous retrovirus group K member 8, envelope",ERV2,HERVK
+ERV2_0085,HERV-K115-env-rec ,-,"Human endogenous retrovirus group K member 8, envelope and recombinase",ERV2,HERVK
+ERV2_0086,HERV-K17,-,Human endogenous retrovirus group K member 17,ERV2,HERVK
+ERV2_0087,HERV-K17833-env-rec ,-,"Human endogenous retrovirus K17833, envelope and recombinase",ERV2,HERVK
+ERV2_0088,HERV-K18,-,Human endogenous retrovirus (HERV) HERV-K18 has superantigen activity,ERV2,HERVK
+ERV2_0089,HERV-K-env I,-,"Human endogenous retrovirus group K, envelope I",ERV2,HERVK
+ERV2_0090,HERV-K-env II,-,"Human endogenous retrovirus group K, envelope II",ERV2,HERVK
+ERV2_0091,HERV-K-env type1,-,"Human endogenous retrovirus group K, envelope type1",ERV2,HERVK
+ERV2_0092,HERV-K-env type2,-,"Human endogenous retrovirus group K, envelope type2",ERV2,HERVK
+ERV2_0093,HERV-K-env-gag,-,"Human endogenous retrovirus group K, envelope and group-specific antigen",ERV2,HERVK
+ERV2_0094,HERV-K-env-np9,-,"Human endogenous retrovirus group K, envelope Np9 protein",ERV2,HERVK
+ERV2_0095,HERV-K-env-SU 164-186,-,"Human endogenous retrovirus group K, envelope",ERV2,HERVK
+ERV2_0096,HERV-K-env-SU 205-226,-,"Human endogenous retrovirus group K, envelope",ERV2,HERVK
+ERV2_0097,HERV-K-gag peptide pools A,-,"Human endogenous retrovirus group K, group-specific antigen peptide pools A",ERV2,HERVK
+ERV2_0098,HERV-K-gag peptide pools B,-,"Human endogenous retrovirus group K, group-specific antigen peptide pools B",ERV2,HERVK
+ERV2_0099,HERV-K-gag peptide pools C,-,"Human endogenous retrovirus group K, group-specific antigen peptide pools C",ERV2,HERVK
+ERV2_0100,HERV-K-T47D,-,-,ERV2,HERVK
+ERV2_0101,HERV-K-T47D-pol,-,-,ERV2,HERVK
+ERV2_0102,HML-10-LTR,-,The long terminal repeats found at the ends of the HML-10 retroviral sequences,ERV2,HML10
+ERV2_0103,HML-2 LTR,-,"Human MMTV-like (HML) supergroup of class II, long terminal repeat",ERV2,HML2
+ERV2_0104,HML-2-env-rec-SU,-,"Human MMTV-like (HML) supergroup of class II, envelope and recombinase surface unit region",ERV2,HML2
+ERV2_0105,HML-2-env-rec-TM,-,"Human MMTV-like (HML) supergroup of class II, envelope and recombinase transmembrane region",ERV2,HML2
+ERV2_0106,HML-2-env-SU MAPs 73,-,"Human MMTV-like (HML) supergroup of class II, envelope surface unit region multiple antigen peptides, SQTITCENCRLLSCI",ERV2,HML2
+ERV2_0107,HML-2-env-SU MAPs 75-76,-,"Human MMTV-like (HML) supergroup of class II, envelope surface unit region multiple antigen peptides, CRLLSCIDSTFNWQHRILL",ERV2,HML2
+ERV2_0108,HML-2-env-SU MAPs 92-93,-,"Human MMTV-like (HML) supergroup of class II, envelope surface unit region multiple antigen peptides, GLIAVTATAAVAGVALHSS",ERV2,HML2
+ERV2_0109,HML-2-gag 137,-,"Human MMTV-like (HML) supergroup of class II, group-specific antigen 137",ERV2,HML2
+ERV2_0110,HML-2-gag 157,-,"Human MMTV-like (HML) supergroup of class II, group-specific antigen 157",ERV2,HML2
+ERV2_0111,HML-2-gag peptides,-,KCYNCGQIGHLKKNC,ERV2,HML2
+ERV2_0112,HML-2-rec,-,"Human MMTV-like (HML) supergroup of class II, recombinase",ERV2,HML2
+ERV2_0113,HML-2-rec-CA,-,"Human MMTV-like (HML) supergroup of class II, recombinant capsid",ERV2,HML2
+ERV2_0114,HML-3-pol,-,"Human MMTV-like (HML) supergroup of class III, polymerase",ERV2,HML3
+ERV2_0115,LTR14,-,LTR14 (Long Terminal Repeat) for HERVKC4 endogenous retrovirus,ERV2,HML10
+ERV2_0116,LTR14B,-,LTR14B (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML1
+ERV2_0117,LTR22,-,LTR22 (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,-
+ERV2_0118,LTR22A,-,LTR22A (Long Terminal Repeat) for HERVK22 endogenous retrovirus,ERV2,HML5
+ERV2_0119,LTR22B,-,LTR22B (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML5
+ERV2_0120,LTR22C0,-,LTR22C0 (Long Terminal Repeat) for ERVK endogenous retrovirus,ERV2,HML5
+ERV2_0121,MER9,-,-,ERV2,-
+ERV2_0122,MER9a2,-,MER9a2 Long Terminal Repeat for ERVK endogenous retrovirus,ERV2,HML3
+ERV2_0123,HERV-K102-env,-,"Endogenous retrovirus group K member 7,envelope",ERV2,HERVK
+ERV3_0001,ERV3-1,"ERV-R, ERV3, ERVR, HERV-R, HERVR, envR","Endogenous retrovirus group 3 member 1, envelope",ERV3,HERVR
+ERV3_0002,LTR33,-,LTR33 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0003,HERV-L,-,"ERVL endogenous retrovirus, HERVL subfamily",ERV3,HERVL
+ERV3_0004,ERVL,-,"Endogenous retrovirus, ERVL subfamily",ERV3,HERVL
+ERV3_0005,LTR16C,-,LTR16C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0006,LTR18C,-,LTR18C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVS
+ERV3_0007,HERVL18-int,HERV18,"Internal region of ERVL Endogenous retrovirus, HERV18 subfamily",ERV3,HERVS
+ERV3_0008,LTR57,-,LTR57 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0009,MER54B,-,MER54B Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0010,MER74C,-,MER74C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0011,HERVL32-int,-,"Internal region of ERVL endogenous retrovirus, HERVL32 subfamily",ERV3,HERVL32
+ERV3_0012,LTR32,-,LTR32 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0013,LTR40b,LTR40B,LTR40b (Long Terminal Repeat) for HERVL40 endogenous retrovirus,ERV3,-
+ERV3_0014,LTR41C,-,LTR41C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0015,LTR47A2,-,LTR47A2 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0016,LTR47B2,-,LTR47B2 (Long Terminal Repeat) for ERVL47 endogenous retrovirus,ERV3,HERVL
+ERV3_0017,LTR57-int,HERV57I,"Internal region of HERV57 endogenous retrovirus, LTR57-int subfamily",ERV3,-
+ERV3_0018,LTR67B,-,LTR67B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0019,MER21B,-,MER21B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0020,MER70B,-,MER70B Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0021,MER76,-,MER76 putative Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0022,MLT2A2,-,MLT2A2 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0023,ERV3-16A3,-,"ERVL endogenous retrovirus, ERV3-16A3_I subfamily",ERV3,HERVL
+ERV3_0024,ERVL-B4-int,-,"ERVL Endogenous retrovirus, ERVL-B4 subfamily (internal region)",ERV3,HERVL
+ERV3_0025,ERVLE-int,-,"ERVL endogenous retrovirus, ERVL-E subfamily (internal region)",ERV3,HERVL
+ERV3_0026,ERVL-int,-,"Endogenous retrovirus, ERVL subfamily (internal region)",ERV3,HERVL
+ERV3_0027,HERV16-int,-,"ERVL endogenous retrovirus, HERV16 subfamily (internal)",ERV3,HERVL
+ERV3_0028,HERVL66-int,HERVL66I,"Internal region of ERVL endogenous retrovirus, HERVL66 subfamily",ERV3,HERVS
+ERV3_0029,HERVL74-int,-,"Internal region of ERVL endogenous retrovirus, HERVL74 subfamily",ERV3,-
+ERV3_0030,LTR101_Mam,-,LTR101_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0031,LTR108a_Mam,-,LTR108a_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0032,LTR108d_Mam,-,LTR108d_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0033,LTR16,-,LTR16 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0034,LTR16B,-,LTR16B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0035,LTR16D,-,LTR16D (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0036,LTR16D2,-,LTR16D2 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0037,LTR16E1,-,LTR16E1 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0038,LTR40c,LTR40C,-,ERV3,-
+ERV3_0039,LTR41,-,LTR41 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0040,LTR41B,-,LTR41B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0041,LTR47B,-,LTR47B (Long Terminal Repeat) for ERVL47 endogenous retrovirus,ERV3,HERVL
+ERV3_0042,LTR53,-,LTR53 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0043,LTR53B,-,LTR53B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0044,LTR80A,-,LTR80A (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0045,LTR80B,-,LTR80B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0046,LTR83,-,LTR83 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0047,LTR86A1,-,LTR86A1 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0048,LTR89,-,LTR89 (Long Terminal Repeat) likely for ERVL endogenous retrovirus,ERV3,-
+ERV3_0049,MER76-int,-,"Internal region of ERVL endogenous retrovirus, MER76-int subfamily",ERV3,-
+ERV3_0050,MLT2B2,-,MLT2B2 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0051,MLT2B5,-,MLT2B5 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0052,MLT2C2,-,MLT2C2 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0053,ERV3-16A3_I-int,-,"Internal region of an ERVL endogenous retrovirus, ERV3-16A3_I subfamily",ERV3,HERVL
+ERV3_0054,ERV3-16A3_LTR,-,"Long terminal repeat, ERV3-16A3_LTR subfamily",ERV3,HERVL
+ERV3_0055,ERVL47-int,-,"ERVL endogenous retrovirus, ERVL47 subfamily (internal region)",ERV3,HERVL
+ERV3_0056,HERVL40-int,HERVL_40,"Internal region of ERVL endogenous retrovirus, HERVL40 subfamily",ERV3,-
+ERV3_0057,HERVR,-,Human endogenous retrovirus group 3,ERV3,HERVR
+ERV3_0058,HERV-R-pol-env,-,"Human endogenous retrovirus group 3 member 1, polymerase and envelope",ERV3,HERVR
+ERV3_0059,LTR108b_Mam,-,LTR108b_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0060,LTR108e_Mam,-,LTR108e_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0061,LTR16A,-,LTR16A (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0062,LTR16A1,-,LTR16A1 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0063,LTR16A2,-,LTR16A2 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0064,LTR16B2,-,LTR16B2 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0065,LTR16D1,-,LTR16D1 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0066,LTR18A,-,LTR18A (Long Terminal Repeat) for HERV18 endogenous retrovirus,ERV3,HERVS
+ERV3_0067,LTR33A,-,LTR33A (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0068,LTR33C,-,LTR33C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0069,LTR47A,-,LTR47A (Long Terminal Repeat) for ERVL47 endogenous retrovirus,ERV3,-
+ERV3_0070,LTR47B3,-,LTR47B3 (Long Terminal Repeat) for ERVL47 endogenous retrovirus,ERV3,HERVL
+ERV3_0071,LTR52-int,HERV52I,"Non-autonomous Internal region of HERV52, LTR52-int subfamily",ERV3,-
+ERV3_0072,LTR53-int,-,"Internal region of ERVL endogenous retrovirus, LTR53-int subfamily",ERV3,-
+ERV3_0073,LTR55,-,LTR55 (Long Terminal Repeat) likely for ERVL endogenous retrovirus,ERV3,-
+ERV3_0074,LTR69,-,LTR69 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0075,LTR82A,-,LTR82A (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0076,LTR84a,-,LTR84a (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0077,LTR86B1,-,LTR86B1 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0078,LTR86B2,-,LTR86B2 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0079,LTR86C,-,LTR86C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0080,MER21A,-,MER21A (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0081,MER21-int,MER21I,"Internal region of an ERVL endogenous retrovirus, MER21-int subfamily",ERV3,-
+ERV3_0082,MER54A,-,MER54A Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0083,MER68,-,MER68 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0084,MER68B,-,MER68B Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0085,MER73,-,MER73 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0086,MER74A,-,MER74A Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0087,MER74B,-,MER74B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0088,MER88,-,MER88 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0089,MLT2A1,-,MLT2A1 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0090,MLT2B1,-,MLT2B1 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0091,MLT2B4,-,MLT2B4 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0092,MLT2F,-,MLT2F Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0093,ERVLE,-,"ERVL endogenous retrovirus, ERVL-E subfamily",ERV3,HERVL
+ERV3_0094,HERVL-int,-,"Internal region of ERVL endogenous retrovirus, HERVL subfamily",ERV3,HERVL
+ERV3_0095,LTR102_Mam,-,LTR102_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0096,LTR105_Mam,-,LTR105_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0097,LTR108c_Mam,-,LTR108c_Mam (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0098,LTR16B1,-,LTR16B1 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0099,LTR16E2,-,LTR16E2 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0100,LTR33A_,-,LTR33A_ (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0101,LTR40a,LTR40A,LTR40a (Long Terminal Repeat) for HERVL40 endogenous retrovirus,ERV3,-
+ERV3_0102,LTR40A1,-,LTR40A1 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0103,LTR42,-,LTR42 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0104,LTR47B4,-,-,ERV3,HERVL
+ERV3_0105,LTR50,-,LTR50 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0106,LTR52,-,LTR52 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0107,LTR66,-,LTR66 (Long Terminal Repeat) for HERVL66 endogenous retrovirus,ERV3,HERVS
+ERV3_0108,LTR75,-,LTR75 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0109,LTR75B,-,LTR75B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0110,LTR79,-,LTR79 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0111,LTR82B,-,LTR82B (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0112,LTR84b,-,LTR84b (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0113,LTR86A2,-,LTR86A2 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0114,LTR91,-,LTR91 (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0115,MER21C,-,MER21C (Long Terminal Repeat) for ERVL endogenous retrovirus,ERV3,-
+ERV3_0116,MER68C,-,MER68C Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0117,MER68-int,MER68_I,"Internal region of ERVL endogenous retrovirus, MER68-int subfamily",ERV3,-
+ERV3_0118,MER70A,-,MER70A Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0119,MER70C,-,MER70C Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0120,MER70-int,MER70_I,"Internal region of ERVL endogenous retrovirus, MER70-int subfamily",ERV3,-
+ERV3_0121,MER77,-,MER77 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0122,MER77B,-,MER77B Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0123,MLT2B3,-,MLT2B3 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0124,MLT2C1,-,MLT2C1 Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,-
+ERV3_0125,MLT2D,-,MLT2D Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0126,MLT2E,-,MLT2E Long Terminal Repeat for ERVL endogenous retrovirus,ERV3,HERVL
+ERV3_0127,HERV16,-,"ERVL endogenous retrovirus, HERV16 subfamily",ERV3,HERVL
+ERVL-MaLR_0001,MLT1B,-,MLT1B Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0002,MLT1F1-int,-,Internal region of MLT1F1 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0003,THE1C-int,-,Internal region of THE1C endogenous retrovirus,ERVL-MaLR,MaLR
+ERVL-MaLR_0004,MLT1I-int,-,Internal region of MLT1I A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0005,MSTA1,-,MSTA1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0006,MSTA1-int,-,"Internal region of MSTA1-int, A Long Terminal Repeat for ERVL-MaLR retrotransposon",ERVL-MaLR,MaLR
+ERVL-MaLR_0007,MLT1A0-int,-,Internal region of MLT1A0 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0008,MLT1A-int,-,Internal region of MLT1A A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0009,MLT1E1A-int,-,Internal region of MLT1E1A A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0010,MLT1E2,-,MLT1E2 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0011,MLT1F2-int,-,Internal region of MLT1F2 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0012,MLT1H2-int,-,Internal region of MLT1H2 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0013,MLT1I,-,MLT1I Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0014,MLT1-int,MLT1_I,"Internal region of ERVL-MaLR retrotransposon, MLT1-int subfamily",ERVL-MaLR,MaLR
+ERVL-MaLR_0015,MLT1J2,-,MLT1J2 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0016,MSTB,-,MSTB Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0017,MSTC-int,-,"Internal region of MSTC-int, A Long Terminal Repeat for ERVL-MaLR retrotransposon",ERVL-MaLR,MaLR
+ERVL-MaLR_0018,MST-int,MST_I,"Internal region of ERVL-MaLR retrotransposon, MST-int subfamily",ERVL-MaLR,MaLR
+ERVL-MaLR_0019,THE1D,-,THE1D Long Terminal Repeat for ERVL-MaLR endogenous retrovirus,ERVL-MaLR,MaLR
+ERVL-MaLR_0020,THE1-int,THE1_I,Internal region of THE1 endogenous retrovirus,ERVL-MaLR,MaLR
+ERVL-MaLR_0021,MLT1A,-,MLT1A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0022,MLT1A0,-,MLT1A0 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0023,MLT1C,-,MLT1C Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0024,MLT1C-int,-,Internal region of MLT1C A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0025,MLT1D,-,MLT1D Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0026,MLT1E,-,MLT1E Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0027,MLT1E3-int,-,Internal region of MLT1E3 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,-
+ERVL-MaLR_0028,MLT1F1,-,MLT1F1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0029,MLT1G1-int,-,Internal region of MLT1G1 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0030,MLT1G3,-,MLT1G3 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0031,MLT1G3-int,-,Internal region of MLT1G3 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0032,MLT1G-int,-,Internal region of MLT1G A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0033,MLT1H1-int,-,Internal region of MLT1H1 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0034,MLT1H2,-,MLT1H2 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0035,MLT1J1-int,-,Internal region of MLT1J1 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0036,MLT1J2-int,-,Internal region of MLT1J2 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0037,MLT1J-int,-,"Internal region of ERVL-MaLR retrotransposon, MLT1J-int subfamily",ERVL-MaLR,MaLR
+ERVL-MaLR_0038,MLT1K,-,MLT1K Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0039,MLT1K-int,-,Internal region of MLT1K A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0040,MLT1L,-,MLT1L Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0041,MLT1N2,-,MLT1N2 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0042,MLT1N2-int,-,Internal region of MLT1N2 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0043,MLT1O,-,MLT1O Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0044,MSTA,-,MSTA Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0045,MSTB2,-,MSTB2 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0046,MSTB2-int,-,"Internal region of MSTB2-int, A Long Terminal Repeat for ERVL-MaLR retrotransposon",ERVL-MaLR,MaLR
+ERVL-MaLR_0047,MSTD,-,MSTD Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0048,THE1A,-,Long terminal repeat (THE1A subfamily),ERVL-MaLR,MaLR
+ERVL-MaLR_0049,THE1B,-,THE1B Long Terminal Repeat for ERVL-MaLR endogenous retrovirus,ERVL-MaLR,MaLR
+ERVL-MaLR_0050,THE1B-int,-,Internal region of THE1B endogenous retrovirus,ERVL-MaLR,MaLR
+ERVL-MaLR_0051,THE1C,-,THE1C Long Terminal Repeat for ERVL-MaLR endogenous retrovirus,ERVL-MaLR,MaLR
+ERVL-MaLR_0052,THE1D-int,-,"Internal region of THE1D endogenous retrovirus, THE1D-int subfamily",ERVL-MaLR,MaLR
+ERVL-MaLR_0053,MLT1A1,-,MLT1A1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0054,MLT1B-int,-,Internal region of MLT1B A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0055,MLT1C1,-,-,ERVL-MaLR,MaLR
+ERVL-MaLR_0056,MLT1C2,-,Mammalian long terminal repeat (MLT1C subfamily),ERVL-MaLR,MaLR
+ERVL-MaLR_0057,MLT1D-int,-,Internal region of MLT1D A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0058,MLT1E1,-,MLT1E1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0059,MLT1E1A,-,MLT1E1A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0060,MLT1E1-int,-,Internal region of MLT1E1 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0061,MLT1E2-int,-,Internal region of MLT1E2 A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0062,MLT1E3,-,MLT1E3 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,-
+ERVL-MaLR_0063,MLT1E-int,-,Internal region of MLT1E A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0064,MLT1F,-,MLT1F Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0065,MLT1F2,-,MLT1F2 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0066,MLT1F-int,-,"Internal region of ERVL-MaLR retrotransposon, MLT1F-int subfamily",ERVL-MaLR,MaLR
+ERVL-MaLR_0067,MLT1G,-,MLT1G Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0068,MLT1G1,-,MLT1G1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0069,MLT1H,-,MLT1H Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0070,MLT1H1,-,MLT1H1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0071,MLT1H-int,MLT1H_I,"Internal region of ERVL-MaLR retrotransposon, MLT1H-int subfamily",ERVL-MaLR,MaLR
+ERVL-MaLR_0072,MLT1J,-,MLT1J Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0073,MLT1J1,-,MLT1J1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0074,MLT1M,-,MLT1M Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0075,MLT1M-int,-,Internal region of MLT1M A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0076,MLT1O-int,-,Internal region of MLT1O A Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0077,MLT-int,-,"Internal region of ERVL-MaLR retrotransposon, MLT-int subfamily",ERVL-MaLR,MaLR
+ERVL-MaLR_0078,MSTA-int,-,"Internal region of MSTA-int, A Long Terminal Repeat for ERVL-MaLR retrotransposon",ERVL-MaLR,MaLR
+ERVL-MaLR_0079,MSTB1,-,MSTB1 Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0080,MSTB1-int,-,"Internal region of MSTB1-int, A Long Terminal Repeat for ERVL-MaLR retrotransposon",ERVL-MaLR,MaLR
+ERVL-MaLR_0081,MSTB-int,-,"Internal region of MSTB-int, A Long Terminal Repeat for ERVL-MaLR retrotransposon",ERVL-MaLR,MaLR
+ERVL-MaLR_0082,MSTC,-,MSTC Long Terminal Repeat for ERVL-MaLR retrotransposon,ERVL-MaLR,MaLR
+ERVL-MaLR_0083,MSTD-int,-,"Internal region of MSTD-int, A Long Terminal Repeat for ERVL-MaLR retrotransposon",ERVL-MaLR,MaLR
+Gypsy_0001,LTR81A,-,LTR81A (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0002,LTR81AB,-,LTR81AB (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0003,LTR81C,-,LTR81C (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0004,LTR81,-,LTR81 (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0005,LTR81B,-,LTR81B (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0006,LTR85c,-,LTR85c (Long Terminal Repeat) with unclear association (possibly Gypsy),Gypsy,-
+Gypsy_0007,MamGypLTR1c,-,MamGypLTR1c (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0008,MamGypLTR2c,-,MamGypLTR2c (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0009,gypsy,-,A retrovirus belonging to the LTR (Long Terminal Repeat) retrovirus family,Gypsy,-
+Gypsy_0010,LTR85b,-,LTR85b (Long Terminal Repeat) with unclear association (possibly Gypsy),Gypsy,-
+Gypsy_0011,LTR88b,-,LTR88b (Long Terminal Repeat) with unclear association (possibly Gypsy),Gypsy,-
+Gypsy_0012,MamGypLTR1a,-,MamGypLTR1a (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0013,MamGypLTR2b,-,MamGypLTR2b (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0014,MamGypLTR3a,-,MamGypLTR3a (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0015,MamGypsy2-I,X2_LR,Conserved repeat present in placental mammals and marsupials,Gypsy,-
+Gypsy_0016,MamGypsy2-LTR,-,MamGypsy2-LTR (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0017,LTR104_Mam,-,LTR104_Mam (Long Terminal Repeat) for a Gypsy-type retrotransposon,Gypsy,-
+Gypsy_0018,LTR85a,-,LTR85a (Long Terminal Repeat) with unclear association (possibly Gypsy),Gypsy,-
+Gypsy_0019,LTR88c,-,LTR88c (Long Terminal Repeat) with unclear association (possibly Gypsy),Gypsy,-
+Gypsy_0020,MamGyp-int,-,"Internal region of a Gypsy retrotransposon, MamGyp-int subfamily",Gypsy,-
+Gypsy_0021,MamGypLTR1b,-,MamGypLTR1b (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0022,MamGypLTR1d,-,MamGypLTR1d (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+Gypsy_0023,MamGypLTR3,-,MamGypLTR3 (Long Terminal Repeat) for Gypsy retrotransposon,Gypsy,-
+LTR_0001,LTR90A,-,LTR90A (Long Terminal Repeat) with unclear association,LTR,-
+LTR_0002,MamRep1527,-,MamRep1527 -- possible LTR from unknown retrotransposon,LTR,-
+LTR_0003,LTR106_Mam,-,LTR106_Mam (Long Terminal Repeat) for an undefined retrotransposon,LTR,-
+LTR_0004,LTR90B,-,LTR90B (Long Terminal Repeat) with unclear association,LTR,-
+LTR_0005,LTR107_Mam,-,LTR107_Mam (Long Terminal Repeat) for an undefined retrotranspson,LTR,-
